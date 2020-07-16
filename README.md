@@ -16,12 +16,9 @@ Ben Kadir Nar. Kendimi veri bilimi ve derin öğrenme alanlarında geliştirmekt
 
 <a href="https://www.instagram.com/veribilimrehberi/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><br/>
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-kubilayisen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kubilayisen/)](https://www.linkedin.com/in/kubilayisen/) 
-  
-[![Gmail Badge](https://img.shields.io/badge/-isen.kubilay@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isen.kubilay@gmail.com)](mailto:isen.kubilay@gmail.com)
+ 
 
-**💻 Çalıştığım Teknolojiler:** 
+<br/>**💻 Çalıştığım Teknolojiler:** 
 
 
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
