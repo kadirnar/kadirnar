@@ -23,6 +23,8 @@ Blog Site:  [Veri Bilim Sitesi](https://kadirnar.com/)
 </a>
 <a href="https://www.instagram.com/veribilimrehberi/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  
+<br/>
 
 
 
