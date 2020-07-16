@@ -26,6 +26,7 @@ Merhabalar ben Kadir Nar. Kendimi veri bilimi ve derin öğrenme alanlarında ge
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></a></code>
 
 <br/> **💻 Çalışmak İstediğim Teknolojiler:** 
 
