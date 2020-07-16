@@ -28,3 +28,15 @@ Merhabalar ben Kadir Nar. Kendimi veri bilimi ve derin öğrenme alanlarında ge
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
+
+<br/>**💻 Çalışmak İstediğim Teknolojiler:** 
+
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
+
+![Kadir Nar Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=kadirnar&show_icons=true&line_height=30)
+
+[![HitCount](http://hits.dwyl.com/isennkubilay/isennkubilay.svg)](http://hits.dwyl.com/kadirnar/kadirnar)
