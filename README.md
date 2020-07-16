@@ -1,10 +1,10 @@
 ### Herkese Merhabalar 👋
 
-<!--
-**kadirnar/kadirnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="90px">
-Here are some ideas to get you started:
 
+<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="90px">
+Ben Kadir Nar. Kendimi veri bilimi ve derin öğrenme alanlarında kendimi geliştirmekteyim. Hobi olarak wordpress ile siteler yapmaktayım.
+
+Blog Site:  [Portfolio](https://kadirnar.com/)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
