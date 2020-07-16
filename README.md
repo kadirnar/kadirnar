@@ -2,7 +2,7 @@
 
 
 <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="90px">
-Merhabalar ben Kadir Nar. Kendimi veri bilimi ve derin öğrenme alanlarında geliştirmekteyim. Teknofest 2020 yarışmasında insansız deniz altı ve insansız hava araclarının görüntü işleme yazılımını yapmaktayım. Bunun dışında 20 kişilik bir ekibin yönetimini yapıyorum.
+Merhabalar ben Kadir Nar. Kendimi veri bilimi ve derin öğrenme alanlarında geliştirmekteyim. Teknofest 2020 yarışmasında insansız deniz altı ve insansız hava araclarının görüntü işleme yazılımını yapmaktayım. Bunun dışında 20 kişilik bir ekibin yöneticiliğini yapıyorum.
 
 
 <br/>Blog Site:  [Veri Bilim Sitesi](https://kadirnar.com/)
