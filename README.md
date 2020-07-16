@@ -11,9 +11,14 @@ Blog Site:  [Veri Bilim Sitesi](https://kadirnar.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-kadirnar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kadir-nar)](https://www.linkedin.com/in/kadir-nar/) 
 [![Gmail Badge](https://img.shields.io/badge/-kadir@kadirnar.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kadir@kadirnar.com)](mailto:kadir@kadirnar.com)
 
-[![pygame](http://img.instagram.com/p/B_LXgD0Hzgx/0.jpg)]((https://www.instagram.com/p/B_LXgD0Hzgx/)
 
-
+instagram: {
+    regex: /https?:\/\/www\.instagram\.com\/p\/([^\/\?\&]+)\/?/,
+    embedUrl: 'https://www.instagram.com/p/<%= remote_id %>/embed',
+    html: '<iframe width="400" height="505" style="margin: 0 auto;" frameborder="0" scrolling="no" allowtransparency="true"></iframe>',
+    height: 505,
+    width: 400
+},
 
 
 
