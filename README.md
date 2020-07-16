@@ -33,7 +33,3 @@ Merhabalar ben Kadir Nar. Kendimi veri bilimi ve derin öğrenme alanlarında ge
 
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
-
-![Kadir Nar Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=kadirnar&show_icons=true&line_height=30)
-
-[![HitCount](http://hits.dwyl.com/isennkubilay/isennkubilay.svg)](http://hits.dwyl.com/kadirnar/kadirnar)
