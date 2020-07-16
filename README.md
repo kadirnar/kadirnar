@@ -2,12 +2,12 @@
 
 
 <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="90px">
-Ben Kadir Nar. Kendimi veri bilimi ve derin öğrenme alanlarında kendimi geliştirmekteyim. Hobi olarak wordpress ile siteler yapmaktayım.
+Ben Kadir Nar. Kendimi veri bilimi ve derin öğrenme alanlarında kendimi geliştirmekteyim. Hobi olarak wordpress ile siteler yapmaktayım.<br/>
+
 
 Blog Site:  [Veri Bilim Sitesi](https://kadirnar.com/)
 
 **📫 İletişim Bilgilerim:** 
-
 <br/>
 
 <a href="https://twitter.com/8bithemant">
@@ -24,8 +24,6 @@ Blog Site:  [Veri Bilim Sitesi](https://kadirnar.com/)
 
 <a href="https://www.instagram.com/veribilimrehberi/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
- 
-  
 <br/>
 
 
