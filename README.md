@@ -31,8 +31,8 @@ Merhabalar ben Kadir Nar. Kendimi veri bilimi ve derin öğrenme alanlarında ge
 
 <br/>**💻 Çalışmak İstediğim Teknolojiler:** 
 
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-<code><a href="https://www.keras.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 
 ![Kadir Nar Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=kadirnar&show_icons=true&line_height=30)
 
