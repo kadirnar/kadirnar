@@ -18,7 +18,7 @@ Merhabalar ben Kadir Nar. Kendimi veri bilimi ve derin öğrenme alanlarında ge
   <img align="left" alt="İnstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a><br/>
 
-<br/> **💻 Çalışmak İstediğim Teknolojiler:**
+<br/> **💻 Çalıştığım Teknolojiler:**
 
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
