@@ -8,7 +8,7 @@ Blog Site:  [Veri Bilim Sitesi](https://kadirnar.com/)
 
 **📫 İletişim Bilgilerim:** 
 
-[![Linkedin Badge](https://img.shields.io/badge/-kubilayisen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kadir-nar)](https://www.linkedin.com/in/kadir-nar/) 
+[![Linkedin Badge](https://img.shields.io/badge/-kadir-nar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kadir-nar)](https://www.linkedin.com/in/kadir-nar/) 
 [![Gmail Badge](https://img.shields.io/badge/-kadir@kadirnar.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kadir@kadirnar.com)](mailto:kadir@kadirnar.com)
 
 
