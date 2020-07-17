@@ -1,4 +1,4 @@
-### Opencv-Python-Dersleri
+### Türkçe Opencv-Python-Dersleri
 
 <code><a href="" target="_blank"><img height="100" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo-1.png"></a></code>
 
@@ -26,3 +26,12 @@
 - Final
 
 Tüm bu yöntemleri Python programlama dili kullanarak yapacağız Bu dersi tamamladıktan sonra opencv ile derin öğrenme uygulamalarına başlayacağız. 
+## Derse Yardımcı Kaynaklar? :books: :innocent: 
+--- 
+* :dart:  Yakında eklenecektir. 
+
+* :dart:  Yakında eklenecektir.
+
+* :dart:  Yakında eklenecektir.
+
+* :dart:  Yakında eklenecektir.
