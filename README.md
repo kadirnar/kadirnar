@@ -1,33 +1,34 @@
-# Opencv ile Görüntü İşleme:heavy_check_mark:
-----
+### Herkese Merhabalar 
 
-### NELER ÖĞRENECEĞİM? :key:
 
-- OpenCV Görüntüler Üzerinde Temel İşlemler
-- OpenCV Contours (Sınır Çizgileri)
-- OpenCV  Convex Hull
-- OpenCV  Hough Transforms
-- OpenCV  Haar Cascade
-- Yüz Algılama (Face Detection)
-- Göz Algılama (Eye Detection)
-- İnsan Bedeni Algılama (Body Detection)
-- Trafikte Araç Algılama (Car Detection)
-- Gülümseme Algılama (Smile Detection)
-- Kendi Haar Cascade Dosyanı Yap !
-- Resimdeki Metni Okuma (text reading)
-- Araç Plakası Okuma (licence plate detection)
-- Trafikteki Araçları Sayma (Car Counting)
-- El Hareketlerini Algılama (hand gesture recognition)
-- Numpy & Matplotlib
-- Final
+<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="90px">
+Merhabalar ben Kadir Nar. Kendimi veri bilimi ve derin öğrenme alanlarında geliştirmekteyim. Teknofest 2020 yarışmasında insansız deniz altı ve insansız hava araclarının görüntü işleme yazılımını yapmaktayım. Bunun dışında 20 kişilik bir ekibin yöneticiliğini yapıyorum.
 
-Tüm bu yöntemleri Python programlama dili kullanarak yapacağız Bu dersi tamamladıktan sonra opencv ile derin öğrenme uygulamalarına başlayacağız. 
-## Derse Yardımcı Kaynaklar? :books: :innocent: 
---- 
-* :dart:  Yakında eklenecektir. 
 
-* :dart:  Yakında eklenecektir.
+<br/>Blog Site:  [Veri Bilim Sitesi](https://kadirnar.com/)
 
-* :dart:  Yakında eklenecektir.
+<br/>**📫 İletişim Bilgilerim:** <br/>
 
-* :dart:  Yakında eklenecektir.
+
+<a href="https://www.linkedin.com/in/kadir-nar/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/veribilimrehberi/">
+  <img align="left" alt="İnstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a><br/>
+
+<br/> **💻 Çalıştığım Teknolojiler:**
+
+<code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></a></code>
+
+<br/> **💻 Çalışmak İstediğim Teknolojiler:** 
+
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
