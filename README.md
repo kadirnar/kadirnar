@@ -2,7 +2,7 @@
 
 
 <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="90px">
-Merhabalar ben Kadir Nar. Kendimi veri bilimi ve derin öğrenme alanlarında geliştirmekteyim. Teknofest 2020 yarışmasında insansız deniz altı ve insansız hava araclarının görüntü işleme yazılımını yapmaktayım. Bunun dışında 20 kişilik bir ekibin yöneticiliğini yapıyorum.
+Merhabalar ben Kadir Nar. Kendimi derin öğrenme alanında geliştirmekteyim. Teknofest 2020 yarışmasında insansız deniz altı ve insansız hava araclarının kategorisinde yarıştım. Teknofest 2021'de insansız hava araçlar(sabit kanat) kategorisinde kaptanlık yapmaktayım. Bunun dışında Pytorch ile yolov4 modeli üzerinde çalışmaktayım..
 
 
 <br/>Blog Site:  [Veri Bilim Sitesi](https://kadirnar.com/)
