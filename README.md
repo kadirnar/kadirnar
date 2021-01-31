@@ -5,7 +5,7 @@
 Merhabalar ben Kadir Nar. Kendimi derin öğrenme alanında geliştirmekteyim. Teknofest 2020 yarışmasında insansız deniz altı ve insansız hava araclarının kategorisinde yarıştım. Teknofest 2021'de insansız hava araçlar(sabit kanat) kategorisinde kaptanlık yapıyorum. Bunun dışında Pytorch ile yolov4 modeli üzerinde çalışmaktayım..<br/>
 
 <br/><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirnar&show_icons=true" alt="kadirnar" /></p>
-<br/>Blog Site:  [Veri Bilim Sitesi](https://kadirnar.com/)
+<br/>Blog Site:  [Veri Bilim Sitesi](https://kadirnar.com/)<br/>
 <br/>**📫 İletişim Bilgilerim:** <br/>
 
 <a href="https://www.linkedin.com/in/kadir-nar/">
