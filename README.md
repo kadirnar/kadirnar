@@ -16,7 +16,7 @@
         <img src="https://media.giphy.com/media/Y06pR1P1hzp1BlTzul/giphy.gif" width="100%" alt="ROS-UAV"/>
         <a target="_blank" href="https://github.com/kadirnar/ros-tutorials">          
         </a>
-        <p><strong>ROS & Python </strong> - Yapay zeka teknolojilerini kullanarak Savaşan İnsansız Hava Araclar için  hedef tespit takip ve hedefe kitlenme gibi algoritmaların geliştirilmesi hedeflenmektedir.</p>
+        <p><strong>ROS & Python </strong> -İnsansız hava araçları için roto planlama ve analiz/tahmin algoritmaları kullanarak otonom roto planlama algoritmaları geliştirilmektedir.</p>
         
   </td>
   </tr>
