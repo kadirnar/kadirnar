@@ -1,5 +1,5 @@
 ## Projelerim
-
+https://media.giphy.com/media/Y06pR1P1hzp1BlTzul/giphy.gif
 <table bordercolor="#66b2b2">
   <tr>
     <td width="33%" valign="top">
@@ -12,12 +12,10 @@
         <p><a target="_blank" href="https://github.com/kadirnar/combat-drone">Repo</a> </p>
     </td>
     <td width="33%" valign="top">
-      <h3>Portfolio</h3>
+      <h3>Ros Temelleri</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2020">Repo</a> // <a target="_blank" href="https://www.shawncharles.com">Site</a></p>
-        <br />
-        <a target="_blank" href="https://www.shawncharles.com">
-            <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        <img src="https://media.giphy.com/media/Y06pR1P1hzp1BlTzul/giphy.gif" width="100%" alt="ROS-UAV"/>
+        <a target="_blank" href="https://github.com/kadirnar/ros-tutorials">          
         </a>
         <p><strong>Yolov4, TensorRT, DeepSORT , PyTorch & Keras</strong> - Yapay zeka teknolojilerini kullanarak Savaşan İnsansız Hava Araclar için  hedef tespit takip ve hedefe kitlenme gibi algoritmaların geliştirilmesi hedeflenmektedir.</p>
     </td>
