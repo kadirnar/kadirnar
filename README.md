@@ -1,5 +1,50 @@
 ### Herkese Merhabalar 
 
+## Projelerim
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Savaşan İnsansız Hava Aracı için Hedef Takip Sistemi</h3>
+        <br />
+        <p><a target="_blank" href="https://github.com/kadirnar/combat-drone">Repo</a> </p>
+        <br />
+        <a target="_blank" href="http://www.travelara.org">
+            <img src="images/gif1.gif" width="100%" alt="Travelara.org"/>
+        </a>
+        <p><strong>Yolov4, TensorRT, DeepSORT , PyTorch & Keras</strong> - Yapay zeka teknolojilerini kullanarak Savaşan İnsansız Hava Araclar için  hedef tespit takip ve hedefe kitlenme gibi algoritmaların geliştirilmesi hedeflenmektedir. 
+</p>
+    </td>
+    
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="90px">
 Merhabalar ben Kadir Nar. Kendimi derin öğrenme alanında geliştirmekteyim. Teknofest 2020 yarışmasında insansız deniz altı ve insansız hava araclarının kategorisinde yarıştım. Teknofest 2021'de insansız hava araçlar(sabit kanat) kategorisinde kaptanlık yapıyorum. Bunun dışında Pytorch ile yolov4 modeli üzerinde çalışmaktayım..<br/>
