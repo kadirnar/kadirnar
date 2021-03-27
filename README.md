@@ -1,21 +1,32 @@
 ### Herkese Merhabalar 
-
+https://github.com/kadirnar/combat-drone
+<img height="150" src="uav.gif"/>
 ## Projelerim
+
 <table bordercolor="#66b2b2">
   <tr>
     <td width="33%" valign="top">
       <h3>Savaşan İnsansız Hava Aracı için Hedef Takip Sistemi</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/kadirnar/combat-drone">Repo</a> </p>
-        <br />
-        <a target="_blank" href="https://github.com/kadirnar/combat-drone">
-            <img height="150" src="uav.gif"/>
+        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2020">Repo</a>
+        <a target="_blank" href="http://www.travelara.org">
+            <img src="uav.gif" width="100%" alt="https://github.com/kadirnar/combat-drone"/>
         </a>
-        <p><strong>Yolov4, TensorRT, DeepSORT , PyTorch & Keras</strong> - Yapay zeka teknolojilerini kullanarak Savaşan İnsansız Hava Araclar için  hedef tespit takip ve hedefe kitlenme gibi algoritmaların geliştirilmesi hedeflenmektedir. 
-</p>
+        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>
-    
+    <td width="33%" valign="top">
+      <h3>Portfolio</h3>
+        <br />
+        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2020">Repo</a> // <a target="_blank" href="https://www.shawncharles.com">Site</a></p>
+        <br />
+        <a target="_blank" href="https://www.shawncharles.com">
+            <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        </a>
+        <p><strong>HTML5, CSS3, Sass, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+  </tr>
 </table>
+
 
 
 
