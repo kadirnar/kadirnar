@@ -5,8 +5,6 @@
     <td width="33%" valign="top">
       <h3>Savaşan İnsansız Hava Aracı için Hedef Takip Sistemi</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/kadirnar/combat-drone">Repo</a> 
-        <br />
         <a target="_blank" href="https://github.com/kadirnar/combat-drone">
             <img src="uav.gif" width="100%" alt="https://github.com/kadirnar/combat-drone"/>
         </a>
