@@ -9,6 +9,7 @@
             <img src="uav.gif" width="100%" alt="https://github.com/kadirnar/combat-drone"/>
         </a>
         <p><strong>Yolov4, TensorRT, DeepSORT , PyTorch & Keras</strong> - Yapay zeka teknolojilerini kullanarak Savaşan İnsansız Hava Araclar için  hedef tespit takip ve hedefe kitlenme gibi algoritmaların geliştirilmesi hedeflenmektedir.</p>
+        <p><a target="_blank" href="https://github.com/kadirnar/combat-drone">Repo</a> </p>
     </td>
     <td width="33%" valign="top">
       <h3>Portfolio</h3>
