@@ -18,7 +18,7 @@
         </a>
         <p><strong>ROS & Python </strong> -İnsansız hava araçları için roto planlama ve analiz/tahmin algoritmaları kullanarak otonom roto planlama algoritmaları geliştirilmektedir.</p>
         
-  </td>
+    </td>
   </tr>
 </table>
 
