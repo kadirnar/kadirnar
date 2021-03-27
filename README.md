@@ -16,8 +16,7 @@
         <a target="_blank" href="https://github.com/kadirnar/ros-tutorials">
             <img src="uav-ros.gif" width="100%" alt="https://github.com/kadirnar/ros-tutorials"/>
         </a>
-        <p><strong>ROS & Python </strong> -İnsansız hava araçları için roto planlama ve analiz/tahmin algoritmaları kullanarak otonom roto planlama algoritmaları geliştirilmektedir.</p>
-        
+        <p><strong>ROS & Python </strong> -İnsansız hava araçları için roto planlama ve analiz/tahmin algoritmaları kullanarak otonom roto planlama algoritmaları geliştirilmektedir.</p>        
     </td>
   </tr>
 </table>
