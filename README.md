@@ -1,5 +1,3 @@
-### Herkese Merhabalar 
-
 ## Projelerim
 
 <table bordercolor="#66b2b2">
@@ -7,11 +5,12 @@
     <td width="33%" valign="top">
       <h3>Savaşan İnsansız Hava Aracı için Hedef Takip Sistemi</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2020">Repo</a>
+        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2020">Repo</a> 
+        <br />
         <a target="_blank" href="http://www.travelara.org">
             <img src="uav.gif" width="100%" alt="https://github.com/kadirnar/combat-drone"/>
         </a>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>Yolov4, TensorRT, DeepSORT , PyTorch & Keras</strong> - Yapay zeka teknolojilerini kullanarak Savaşan İnsansız Hava Araclar için  hedef tespit takip ve hedefe kitlenme gibi algoritmaların geliştirilmesi hedeflenmektedir.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Portfolio</h3>
@@ -21,7 +20,7 @@
         <a target="_blank" href="https://www.shawncharles.com">
             <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
         </a>
-        <p><strong>HTML5, CSS3, Sass, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>Yolov4, TensorRT, DeepSORT , PyTorch & Keras</strong> - Yapay zeka teknolojilerini kullanarak Savaşan İnsansız Hava Araclar için  hedef tespit takip ve hedefe kitlenme gibi algoritmaların geliştirilmesi hedeflenmektedir.</p>
     </td>
   </tr>
 </table>
@@ -54,7 +53,7 @@
 
 
 
-
+### Herkese Merhabalar 
 
 <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="90px">
 Merhabalar ben Kadir Nar. Kendimi derin öğrenme alanında geliştirmekteyim. Teknofest 2020 yarışmasında insansız deniz altı ve insansız hava araclarının kategorisinde yarıştım. Teknofest 2021'de insansız hava araçlar(sabit kanat) kategorisinde kaptanlık yapıyorum. Bunun dışında Pytorch ile yolov4 modeli üzerinde çalışmaktayım..<br/>
