@@ -8,7 +8,7 @@
         <br />
         <p><a target="_blank" href="https://github.com/kadirnar/combat-drone">Repo</a> </p>
         <br />
-        <a target="_blank" href="http://www.travelara.org">
+        <a target="_blank" href="https://github.com/kadirnar/combat-drone">
             <img height="150" src="uav.gif"/>
         </a>
         <p><strong>Yolov4, TensorRT, DeepSORT , PyTorch & Keras</strong> - Yapay zeka teknolojilerini kullanarak Savaşan İnsansız Hava Araclar için  hedef tespit takip ve hedefe kitlenme gibi algoritmaların geliştirilmesi hedeflenmektedir. 
