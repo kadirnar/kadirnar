@@ -11,7 +11,7 @@
         <p><a target="_blank" href="https://github.com/kadirnar/combat-drone">Repo</a> </p>
     </td>
     <td width="33%" valign="top">
-      <h3>Ros Temelleri</h3>
+      <h3>Roto Planlama ve Tahmin Algoritmaları</h3>
         <br />
         <img src="https://media.giphy.com/media/Y06pR1P1hzp1BlTzul/giphy.gif" width="100%" alt="ROS-UAV"/>
         <a target="_blank" href="https://github.com/kadirnar/ros-tutorials">          
