@@ -1,6 +1,5 @@
 ### Herkese Merhabalar 
-https://github.com/kadirnar/combat-drone
-<img height="150" src="uav.gif"/>
+
 ## Projelerim
 
 <table bordercolor="#66b2b2">
