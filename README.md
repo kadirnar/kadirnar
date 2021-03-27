@@ -28,8 +28,7 @@ Merhabalar ben Kadir Nar. Kendimi derin öğrenme alanında geliştirmekteyim. T
   </tr>
 </table>
 
-<br/><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirnar&show_icons=true" alt="kadirnar" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadirnar" alt="kadirnar" /> </p>
+<br/><p>&nbsp;<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=kadirnar&show_icons=true" alt="kadirnar" /></p>
 
 <br/>**📫 İletişim Bilgilerim:** <br/>
 
