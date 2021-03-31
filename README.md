@@ -16,7 +16,7 @@ Merhabalar ben Kadir Nar. Kendimi derin öğrenme alanında geliştirmekteyim. T
         <p><a target="_blank" href="https://github.com/kadirnar/combat-drone">Repo</a> </p>
     </td>
     <td width="33%" valign="top">
-      <h3>Roto Planlama ve Tahmin Algoritmaları</h3>
+      <h3>Rota Planlama ve Tahmin Algoritmaları</h3>
         <br />
         <br />
         <a target="_blank" href="https://github.com/kadirnar/ros-tutorials">
