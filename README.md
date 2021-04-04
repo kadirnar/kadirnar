@@ -35,8 +35,8 @@ Merhabalar ben Kadir Nar. Kendimi derin öğrenme alanında geliştirmekteyim. T
         <a target="_blank" href="https://github.com/kadirnar/rov-circle-detection">
             <img src="rov.gif" width="100%" alt="https://github.com/kadirnar/rov-circle-detection"/>
         </a>
-        <p><strong>Yolov4, TensorRT, DeepSORT , PyTorch & Keras</strong> - Yapay zeka teknolojilerini kullanarak Savaşan İnsansız Hava Araclar için  hedef tespit takip ve hedefe kitlenme gibi algoritmaların geliştirilmesi hedeflenmektedir.</p>
-        <p><a target="_blank" href="https://github.com/kadirnar/combat-drone">Repo</a> </p>
+        <p><strong>Yolov4, TensorRT, DeepSORT , PyTorch & Keras</strong> - Yapay zeka teknolojilerini kullanarak İnsansız Su Altı Sistemler için  hedef tespit takip ve hedefe kitlenme gibi algoritmaların geliştirilmesi hedeflenmektedir.</p>
+        <p><a target="_blank" href="https://github.com/kadirnar/rov-circle-detection">Repo</a> </p>
     </td>
     <td width="33%" valign="top">
       <h3>Rota Planlama ve Tahmin Algoritmaları</h3>
