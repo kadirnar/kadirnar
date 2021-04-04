@@ -43,7 +43,7 @@ Merhabalar ben Kadir Nar. Kendimi derin öğrenme alanında geliştirmekteyim. T
         <br />
         <br />
         <a target="_blank" href="https://github.com/kadirnar/yolov4-gui">
-            <img src="uav-ros.gif" width="100%" alt="https://github.com/kadirnar/yolov4-gui"/>
+            <img src="yolov4-gui.mp4" width="100%" alt="https://github.com/kadirnar/yolov4-gui"/>
         </a>
         <p><strong>ROS & Python </strong> -Yolov4 modellerini rahat bir şekilde herkesin kullanabilmesi için bir masaüstü programı yazıllması hedeflenmektedir.</p>  
         <p><a target="_blank" href="https://github.com/kadirnar/yolov4-gui">Repo</a> </p>
