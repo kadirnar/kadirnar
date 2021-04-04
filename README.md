@@ -12,7 +12,7 @@ Merhabalar ben Kadir Nar. Kendimi derin öğrenme alanında geliştirmekteyim. T
         <a target="_blank" href="https://github.com/kadirnar/combat-drone">
             <img src="uav.gif" width="100%" alt="https://github.com/kadirnar/combat-drone"/>
         </a>
-        <p><strong>Yolov4, TensorRT, DeepSORT , PyTorch & Keras</strong> - Yapay zeka teknolojilerini kullanarak Savaşan İnsansız Hava Araclar için  hedef tespit takip ve hedefe kitlenme gibi algoritmaların geliştirilmesi hedeflenmektedir.</p>
+        <p><strong>Yolov4 + TensorRT</strong> - Yapay zeka teknolojilerini kullanarak Savaşan İnsansız Hava Araclar için  hedef tespit takip ve hedefe kitlenme gibi algoritmaların geliştirilmesi hedeflenmektedir.</p>
         <p><a target="_blank" href="https://github.com/kadirnar/combat-drone">Repo</a> </p>
     </td>
     <td width="33%" valign="top">
@@ -39,14 +39,14 @@ Merhabalar ben Kadir Nar. Kendimi derin öğrenme alanında geliştirmekteyim. T
         <p><a target="_blank" href="https://github.com/kadirnar/rov-circle-detection">Repo</a> </p>
     </td>
     <td width="33%" valign="top">
-      <h3>Rota Planlama ve Tahmin Algoritmaları</h3>
+      <h3>Yolo Masaüstü Uygulaması</h3>
         <br />
         <br />
-        <a target="_blank" href="https://github.com/kadirnar/ros-tutorials">
-            <img src="uav-ros.gif" width="100%" alt="https://github.com/kadirnar/ros-tutorials"/>
+        <a target="_blank" href="https://github.com/kadirnar/yolov4-gui">
+            <img src="uav-ros.gif" width="100%" alt="https://github.com/kadirnar/yolov4-gui"/>
         </a>
-        <p><strong>ROS & Python </strong> -İnsansız hava araçları için roto planlama ve analiz/tahmin algoritmaları kullanarak otonom rota planlama algoritmaları geliştirilmektedir.</p>  
-        <p><a target="_blank" href="https://github.com/kadirnar/ros-tutorials">Repo</a> </p>
+        <p><strong>ROS & Python </strong> -Yolov4 modellerini rahat bir şekilde herkesin kullanabilmesi için bir masaüstü programı yazıllması hedeflenmektedir.</p>  
+        <p><a target="_blank" href="https://github.com/kadirnar/yolov4-gui">Repo</a> </p>
     </td>
   </tr>
 </table>
