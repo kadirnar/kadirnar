@@ -39,7 +39,7 @@ Merhabalar ben Kadir Nar. Kendimi derin öğrenme alanında geliştirmekteyim. T
         <p><a target="_blank" href="https://github.com/kadirnar/rov-circle-detection">Repo</a> </p>
     </td>
     <td width="33%" valign="top">
-      <h3>Yolo Masaüstü Uygulaması</h3>
+      <h3>YoloDesk: Yolov4 & Scaled Yolov4 Masaüstü Uygulaması</h3>
         <br />
         <br />
         <a target="_blank" href="https://github.com/kadirnar/yolov4-gui">
