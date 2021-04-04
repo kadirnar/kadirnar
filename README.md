@@ -27,6 +27,29 @@ Merhabalar ben Kadir Nar. Kendimi derin öğrenme alanında geliştirmekteyim. T
     </td>
   </tr>
 </table>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Teknofest İnsansız Su Altı Sistemler Yarışması için Çember Tespiti</h3>
+        <br />
+        <a target="_blank" href="https://github.com/kadirnar/rov-circle-detection">
+            <img src="rov.gif" width="100%" alt="https://github.com/kadirnar/rov-circle-detection"/>
+        </a>
+        <p><strong>Yolov4, TensorRT, DeepSORT , PyTorch & Keras</strong> - Yapay zeka teknolojilerini kullanarak Savaşan İnsansız Hava Araclar için  hedef tespit takip ve hedefe kitlenme gibi algoritmaların geliştirilmesi hedeflenmektedir.</p>
+        <p><a target="_blank" href="https://github.com/kadirnar/combat-drone">Repo</a> </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Rota Planlama ve Tahmin Algoritmaları</h3>
+        <br />
+        <br />
+        <a target="_blank" href="https://github.com/kadirnar/ros-tutorials">
+            <img src="uav-ros.gif" width="100%" alt="https://github.com/kadirnar/ros-tutorials"/>
+        </a>
+        <p><strong>ROS & Python </strong> -İnsansız hava araçları için roto planlama ve analiz/tahmin algoritmaları kullanarak otonom rota planlama algoritmaları geliştirilmektedir.</p>  
+        <p><a target="_blank" href="https://github.com/kadirnar/ros-tutorials">Repo</a> </p>
+    </td>
+  </tr>
+</table>
 
 <br/><p>&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=kadirnar&show_icons=true" alt="kadirnar" /></p>
 
