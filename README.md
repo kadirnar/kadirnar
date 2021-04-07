@@ -1,7 +1,7 @@
 ### Herkese Merhabalar 
 
 <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="90px">
-Merhabalar ben Kadir Nar. Kendimi derin öğrenme alanında geliştirmekteyim. Teknofest 2020 yarışmasında insansız deniz altı ve insansız hava araclarının kategorisinde yarıştım. Teknofest 2021'de insansız hava araçlar(sabit kanat) kategorisinde kaptanlık yapıyorum. Bunun dışında Pytorch ile yolov4 modeli üzerinde çalışmaktayım..<br/>
+Merhabalar ben Kadir Nar. Derin öğrenme(Bilgisayar Görü) alanında çalışmalar yapmaktayım. Teknofest 2020 yarışmasında insansız su altı ve insansız hava araclarının kategorisinde yarıştım. Teknofest 2021'de insansız hava araçlar(sabit kanat) ve sağlıkta yapay zeka yarışmalarına katılmaktayım.<br/>
 
 ## Projelerim
 <table bordercolor="#66b2b2">
