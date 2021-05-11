@@ -51,7 +51,6 @@ Merhabalar ben Kadir Nar. Derin öğrenme(Bilgisayar Görü) alanında çalışm
   </tr>
 </table>
 
-<br/><p>&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=kadirnar&show_icons=true" alt="kadirnar" /></p>
 
 <br/>**📫 İletişim Bilgilerim:** <br/>
 
@@ -68,9 +67,7 @@ Merhabalar ben Kadir Nar. Derin öğrenme(Bilgisayar Görü) alanında çalışm
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
