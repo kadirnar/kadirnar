@@ -74,12 +74,3 @@
 
 
 Merhabalar ben Kadir Nar. Derin öğrenme(Bilgisayar Görü) alanında çalışmalar yapmaktayım. Teknofest 2020 yarışmasında insansız su altı ve insansız hava araclarının kategorisinde yarıştım. Teknofest 2021'de insansız hava araçlar(sabit kanat) ve sağlıkta yapay zeka yarışmalarına katılmaktayım.<br/>
-<br/>**📫 İletişim Bilgilerim:** <br/>
-
-<a href="https://www.linkedin.com/in/kadir-nar/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://www.instagram.com/kadir_narr/">
-  <img align="left" alt="İnstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a><br/>
