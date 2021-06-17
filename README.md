@@ -9,7 +9,15 @@
 - 📝 Yakında bilgisayar görü ve otopilot yazılımlarımı medium üzerinden paylaşacağım. [Medium](https://medium.com/@kadir.nar)
 
 - 📫 Mail üzerinden bana ulaşabilirsiniz. **kadir.nar@hotmail.com**
+**💻 Çalıştığım Teknolojiler:**
 
+<code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 ## Projelerim
 <table bordercolor="#66b2b2">
   <tr>
@@ -57,15 +65,8 @@
     </td>
   </tr>
 </table>
-<br/> **💻 Çalıştığım Teknolojiler:**
+<br/> 
 
-<code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 
 <br/> **💻 Katıldığım Yarışmalar:**
 
