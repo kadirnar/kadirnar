@@ -1,6 +1,5 @@
 ### Herkese Merhabalar 
-
-<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="90px">
+<img src="merhabalar.webp" width="100px">
 Merhabalar ben Kadir Nar. Derin öğrenme(Bilgisayar Görü) alanında çalışmalar yapmaktayım. Teknofest 2020 yarışmasında insansız su altı ve insansız hava araclarının kategorisinde yarıştım. Teknofest 2021'de insansız hava araçlar(sabit kanat) ve sağlıkta yapay zeka yarışmalarına katılmaktayım.<br/>
 
 ## Projelerim
