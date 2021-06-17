@@ -9,8 +9,6 @@
 - 📝 Yakında bilgisayar görü ve otopilot yazılımlarımı medium üzerinden paylaşacağım. [Medium](https://medium.com/@kadir.nar)
 
 - 📫 Mail üzerinden bana ulaşabilirsiniz. **kadir.nar@hotmail.com**
--   Uluslararası İnsansız Hava Aracı Yarışması , İnsansız Su Altı Sistemleri Yarışması ve Sağlıkta Yapay Zeka yarışmalarına katılmaktayım.
-
 **💻 Çalıştığım Teknolojiler:**
 
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
@@ -66,8 +64,3 @@
   </tr>
 </table>
 <br/> 
-
-
-<br/> **💻 Katıldığım Yarışmalar:**
-
-<img src="insansız-hava-aracları.jpg" height="150"> <img src="insansız-su-altı-sistemler.png" height="150"> <img src="sağlıkta-yapay-zeka.png" height="150">
