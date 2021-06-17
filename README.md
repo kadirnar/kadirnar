@@ -22,7 +22,7 @@
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 
-<br/> **💻 Katıldığım Teknolojiler:**
+<br/> **💻 Katıldığım Yarışmalar:**
 
 <img src="insansız-hava-aracları.jpg" height="150"> <img src="insansız-su-altı-sistemler.png" height="150"> <img src="sağlıkta-yapay-zeka.png" height="150">
 
