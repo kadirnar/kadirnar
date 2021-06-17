@@ -12,7 +12,19 @@
 
 - 📫 Mail üzerinden bana ulaşabilirsiniz. **kadir.nar@hotmail.com**
 
+<br/> **💻 Çalıştığım Teknolojiler:**
 
+<code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+
+<br/> **💻 Katıldığım Teknolojiler:**
+
+<img src="insansız-hava-aracları.jpg" height="150"> <img src="insansız-su-altı-sistemler.png" height="150"> <img src="sağlıkta-yapay-zeka.png" height="150">
 
 
 Merhabalar ben Kadir Nar. Derin öğrenme(Bilgisayar Görü) alanında çalışmalar yapmaktayım. Teknofest 2020 yarışmasında insansız su altı ve insansız hava araclarının kategorisinde yarıştım. Teknofest 2021'de insansız hava araçlar(sabit kanat) ve sağlıkta yapay zeka yarışmalarına katılmaktayım.<br/>
