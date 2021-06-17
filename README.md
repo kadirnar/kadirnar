@@ -1,5 +1,20 @@
-### Herkese Merhabalar 
-<img src="merhabalar.webp" width="100px">
+<h2 align="center">Herkese Merhabalar</h2>
+<img src="merhaba.webp" width="100px">
+
+
+- 🔭 Şuan da **Bilgisayar Görü ve Otopilot Sistemleri** üzerinde çalışıyorum.
+
+- 🌱 Şuan da **ROS,PX4,Gazebo, OpenCV, Tensorflow** teknolojilerini öğreniyorum.
+
+- 🎥 Bilgisayar görü alanında eğitici videolar çekiyorum. [YouTube](https://www.youtube.com/channel/UCBraMvFbuS71CvB2yWz6BEw)
+
+- 📝 Yakında bilgisayar görü ve otopilot yazılımlarımı medium üzerinden paylaşacağım. [Medium](https://medium.com/@kadir.nar)
+
+- 📫 Mail üzerinden bana ulaşabilirsiniz. **kadir.nar@hotmail.com**
+
+
+
+
 Merhabalar ben Kadir Nar. Derin öğrenme(Bilgisayar Görü) alanında çalışmalar yapmaktayım. Teknofest 2020 yarışmasında insansız su altı ve insansız hava araclarının kategorisinde yarıştım. Teknofest 2021'de insansız hava araçlar(sabit kanat) ve sağlıkta yapay zeka yarışmalarına katılmaktayım.<br/>
 
 ## Projelerim
