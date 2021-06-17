@@ -1,6 +1,4 @@
 <h2 align="center">Herkese Merhabalar</h2>
-<img src="merhaba.webp" width="100px">
-
 
 - 🔭 Şuan da **Bilgisayar Görü ve Otopilot Sistemleri** üzerinde çalışıyorum.
 
