@@ -2,7 +2,7 @@
 
 - 🔭 Şuan da **Bilgisayar Görü ve Otopilot Sistemleri** üzerinde çalışıyorum.
 
-- 🌱 Şuan da **ROS,PX4,Gazebo, OpenCV, Tensorflow** teknolojilerini öğreniyorum.
+- 🌱 Şuan da **ROS/Dronekit,PX4/Ardupilot,Gazebo, OpenCV, Keras** teknolojilerini öğreniyorum.
 
 - 🎥 Bilgisayar görü alanında eğitici videolar çekiyorum. [YouTube](https://www.youtube.com/channel/UCBraMvFbuS71CvB2yWz6BEw)
 
