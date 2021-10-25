@@ -40,27 +40,4 @@
     </td>
   </tr>
 </table>
-<table bordercolor="#66b2b2">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Teknofest İnsansız Su Altı Sistemler Yarışması için Çember Tespiti</h3>
-        <br />
-        <a target="_blank" href="https://github.com/kadirnar/rov-circle-detection">
-            <img src="rov.gif" width="100%" alt="https://github.com/kadirnar/rov-circle-detection"/>
-        </a>
-        <p><strong>Yolov4 & TensorRT</strong> - Yapay zeka teknolojilerini kullanarak İnsansız Su Altı Sistemler için  hedef tespit takip ve hedefe kitlenme gibi algoritmaların geliştirilmesi hedeflenmektedir.</p>
-        <p><a target="_blank" href="https://github.com/kadirnar/rov-circle-detection">Repo</a> </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>YoloDesk: Yolov4 & Scaled Yolov4 Masaüstü Uygulaması</h3>
-        <br />
-        <br />
-        <a target="_blank" href="https://github.com/kadirnar/yolov4-gui">
-            <img src="gui.gif" width="100%" alt="https://github.com/kadirnar/yolov4-gui"/>
-        </a>
-        <p><strong>ROS & Python </strong> -Yolov4 modellerini rahat bir şekilde herkesin kullanabilmesi için bir masaüstü programı yazıllması hedeflenmektedir.</p>  
-        <p><a target="_blank" href="https://github.com/kadirnar/yolov4-gui">Repo</a> </p>
-    </td>
-  </tr>
-</table>
 <br/> 
