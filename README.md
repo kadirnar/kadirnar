@@ -1,12 +1,10 @@
 <h2 align="center">Herkese Merhabalar</h2>
 
-- 🔭 Şuan da **Bilgisayar Görü ve Otopilot Sistemleri** üzerinde çalışıyorum.
+- 🔭 Şuan da **Bilgisayar Görü** üzerinde çalışıyorum.
 
-- 🌱 Şuan da **ROS/Dronekit,PX4/Ardupilot,Gazebo, OpenCV, Keras** teknolojilerini öğreniyorum.
+- 🌱 Şuan da **Pytorch** teknolojilerini öğreniyorum.
 
-- 🎥 Bilgisayar görü alanında eğitici videolar çekiyorum. [YouTube](https://www.youtube.com/channel/UCBraMvFbuS71CvB2yWz6BEw)
-
-- 📝 Yakında bilgisayar görü ve otopilot yazılımlarımı medium üzerinden paylaşacağım. [Medium](https://medium.com/@kadir.nar)
+- 📝 Yakında Pytorch, Yolo ve Kornia yazıları medium üzerinden paylaşacağım. [Medium](https://medium.com/@kadir.nar)
 
 - 📫 Mail üzerinden bana ulaşabilirsiniz. **kadir.nar@hotmail.com**
 
