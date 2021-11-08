@@ -4,7 +4,7 @@
 
 - 🌱 Şuan da **Pytorch** teknolojilerini öğreniyorum.
 
-- 📝 Yakında Pytorch, Yolo ve Kornia yazıları medium üzerinden paylaşacağım. [Medium](https://medium.com/@kadir.nar)
+- 📝 Yakında Pytorch, Yolo yazıları medium üzerinden paylaşacağım. [Medium](https://medium.com/@kadir.nar)
 
 - 📫 Mail üzerinden bana ulaşabilirsiniz. **kadir.nar@hotmail.com**
 
