@@ -35,7 +35,7 @@
         <a target="_blank" href="https://github.com/kadirnar/pytorch-classification">
             <img src="minions.gif" width="100%" alt="https://github.com/kadirnar/pytorch-classification"/>
         </a>
-        <p><strong>ROS & Python </strong> -İnsansız hava araçları için   ve /  kullanarak otonom rota planlama algoritmaları geliştirilmektedir.</p>  
+        <p><strong>ROS & Python </strong> Pytorch yapay zeka kütüphanesini kullanarak resim üzerinden eğitim ve test işlemlerini yaptık.</p>  
         <p><a target="_blank" href="https://github.com/kadirnar/pytorch-classification">Repo</a> </p>
     </td>
   </tr>
