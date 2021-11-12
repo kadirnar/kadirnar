@@ -19,7 +19,7 @@
 ## Projelerim
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>Savaşan İnsansız Hava Aracı için Hedef Takip Sistemi</h3>
         <br />
         <a target="_blank" href="https://github.com/kadirnar/combat-drone">
@@ -28,14 +28,14 @@
         <p><strong>Yolov4 + TensorRT</strong> - Yapay zeka teknolojilerini kullanarak Savaşan İnsansız Hava Araclar için  hedef tespit takip ve hedefe kitlenme gibi algoritmaların geliştirilmesi hedeflenmektedir.</p>
         <p><a target="_blank" href="https://github.com/kadirnar/combat-drone">Repo</a> </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>Pytorch Kütüphanesi Kullanarak Resim Sınıflandırma</h3>
         <br />
         <br />
         <a target="_blank" href="https://github.com/kadirnar/pytorch-classification">
             <img src="minions.gif" width="100%" alt="https://github.com/kadirnar/pytorch-classification"/>
         </a>
-        <p><strong>ROS & Python </strong> -İnsansız hava araçları için rota planlama ve analiz/tahmin algoritmaları kullanarak otonom rota planlama algoritmaları geliştirilmektedir.</p>  
+        <p><strong>ROS & Python </strong> -İnsansız hava araçları için   ve /  kullanarak otonom rota planlama algoritmaları geliştirilmektedir.</p>  
         <p><a target="_blank" href="https://github.com/kadirnar/pytorch-classification">Repo</a> </p>
     </td>
   </tr>
