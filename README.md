@@ -29,7 +29,7 @@
         <p><a target="_blank" href="https://github.com/kadirnar/combat-drone">Repo</a> </p>
     </td>
     <td width="33%" valign="top">
-      <h3>Pytorch Kullanarak Resim Sınıflandırma</h3>
+      <h3>Pytorch Kütüphanesi Kullanarak Resim Sınıflandırma</h3>
         <br />
         <br />
         <a target="_blank" href="https://github.com/kadirnar/pytorch-classification">
