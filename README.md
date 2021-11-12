@@ -31,7 +31,6 @@
     <td width="50%" valign="top">
       <h3>Pytorch Kütüphanesi Kullanarak Resim Sınıflandırma</h3>
         <br />
-        <br />
         <a target="_blank" href="https://github.com/kadirnar/pytorch-classification">
             <img src="minions.gif" width="100%" alt="https://github.com/kadirnar/pytorch-classification"/>
         </a>
