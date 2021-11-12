@@ -33,7 +33,7 @@
         <br />
         <br />
         <a target="_blank" href="https://github.com/kadirnar/pytorch-classification">
-            <img src="uav-ros.gif" width="100%" alt="https://github.com/kadirnar/pytorch-classification"/>
+            <img src="minions.gif" width="100%" alt="https://github.com/kadirnar/pytorch-classification"/>
         </a>
         <p><strong>ROS & Python </strong> -İnsansız hava araçları için rota planlama ve analiz/tahmin algoritmaları kullanarak otonom rota planlama algoritmaları geliştirilmektedir.</p>  
         <p><a target="_blank" href="https://github.com/kadirnar/pytorch-classification">Repo</a> </p>
