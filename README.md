@@ -34,7 +34,7 @@
         <a target="_blank" href="https://github.com/kadirnar/pytorch-classification">
             <img src="minions.gif" width="100%" alt="https://github.com/kadirnar/pytorch-classification"/>
         </a>
-        <p><strong>Pytorch & Python </strong> Pytorch yapay zeka kütüphanesini kullanarak resim üzerinden eğitim ve test işlemlerini yaptık.</p>  
+        <br/><p><strong>Pytorch & Python </strong> Pytorch yapay zeka kütüphanesini kullanarak resim üzerinden eğitim ve test işlemlerini yaptık.</p>  
         <p><a target="_blank" href="https://github.com/kadirnar/pytorch-classification">Repo</a> </p>
     </td>
   </tr>
