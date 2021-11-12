@@ -29,14 +29,14 @@
         <p><a target="_blank" href="https://github.com/kadirnar/combat-drone">Repo</a> </p>
     </td>
     <td width="33%" valign="top">
-      <h3>İHA için Rota Planlama ve Tahmin Algoritmaları</h3>
+      <h3>Pytorch ile Resim Sınıflandımra</h3>
         <br />
         <br />
-        <a target="_blank" href="https://github.com/kadirnar/ros-tutorials">
-            <img src="uav-ros.gif" width="100%" alt="https://github.com/kadirnar/ros-tutorials"/>
+        <a target="_blank" href="https://github.com/kadirnar/pytorch-classification">
+            <img src="uav-ros.gif" width="100%" alt="https://github.com/kadirnar/pytorch-classification"/>
         </a>
         <p><strong>ROS & Python </strong> -İnsansız hava araçları için rota planlama ve analiz/tahmin algoritmaları kullanarak otonom rota planlama algoritmaları geliştirilmektedir.</p>  
-        <p><a target="_blank" href="https://github.com/kadirnar/ros-tutorials">Repo</a> </p>
+        <p><a target="_blank" href="https://github.com/kadirnar/pytorch-classification">Repo</a> </p>
     </td>
   </tr>
 </table>
