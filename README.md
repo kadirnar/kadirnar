@@ -8,6 +8,8 @@
 
 - 📫 Mail üzerinden bana ulaşabilirsiniz. **kadir.nar@hotmail.com**
 
+- 🏆 Teknofest Sağlıkta Yapay Zeka Türkiye 2.liği
+
 **💻 Çalıştığım Teknolojiler:**
 
 
