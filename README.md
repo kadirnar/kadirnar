@@ -22,12 +22,12 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3>Savaşan İnsansız Hava Aracı için Hedef Takip Sistemi</h3>
-        <a target="_blank" href="https://github.com/kadirnar/combat-drone">
-            <img src="uav.gif" width="100%" alt="https://github.com/kadirnar/combat-drone"/>
+      <h3>Yolov5 ve Sahi Kullanarak Yüksek Doğruluklu Nesne Tespit Uygulaması</h3>
+        <a target="_blank" href="https://github.com/kadirnar/yolov5-pytorch-sahi">
+            <img src="sahi.gif" width="100%" alt="https://github.com/kadirnar/yolov5-pytorch-sahi"/>
         </a>
-        <p><strong>Yolov4 + TensorRT</strong> - Yapay zeka teknolojilerini kullanarak Savaşan İnsansız Hava Araclar için  hedef tespit takip ve hedefe kitlenme gibi algoritmaların geliştirilmesi hedeflenmektedir.</p>
-        <p><a target="_blank" href="https://github.com/kadirnar/combat-drone">Repo</a> </p>
+        <p><strong>Yolov4 + Sahi</strong> - Yolov5 Modeline Sahi Algoritmasını Ekleyerek Yüksek Doğruluklu Nesne Tespit Uygulamanı Yap!</p>
+        <p><a target="_blank" href="https://github.com/kadirnar/yolov5-pytorch-sahi">Repo</a> </p>
     </td>
     <td width="50%" valign="top">
       <h3>Pytorch Kütüphanesi Kullanarak Resim Sınıflandırma</h3>
