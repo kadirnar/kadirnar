@@ -31,7 +31,7 @@
     <td width="50%" valign="top">
       <h3>Pytorch Kütüphanesi Kullanarak Resim Sınıflandırma</h3>
         <a target="_blank" href="https://github.com/kadirnar/pytorch-classification">
-            <img src="torch-2.png" width="100%" alt="https://github.com/kadirnar/pytorch-classification"/>
+            <img src="torch-2.png" width="95%" alt="https://github.com/kadirnar/pytorch-classification"/>
         </a>
         <p><strong>Pytorch & Python </strong> Pytorch Kütüphanesini Kullanarak Veri Seti Üzerinden Model Eğitme ve Test İşlemlerini Yaptık.</p>  
     </td>
