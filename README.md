@@ -24,15 +24,15 @@
     <td width="50%" valign="top">
       <h3>Yolov5 ve Sahi Kullanarak Yüksek Doğruluklu Nesne Tespit Uygulaması</h3>
         <a target="_blank" href="https://github.com/kadirnar/yolov5-pytorch-sahi">
-            <img src="torch.png" width="150%" alt="https://github.com/kadirnar/yolov5-pytorch-sahi"/></a>
-        <p><strong>Yolov4 + Sahi</strong> - Yolov5 Modeline Sahi Algoritmasını Ekleyerek Yüksek Doğruluklu Nesne Tespit Uygulamanı Yap!</p>
+            <img src="torch.png" width="100%" alt="https://github.com/kadirnar/yolov5-pytorch-sahi"/></a>
+        <p><strong>Yolov4 + Sahi</strong> - Yolov5 Modeline Sahi Algoritmasını Ekleyerek Küçük Nesnelerin Tespitini Yüksek Doğrulukla Yap!</p>
     </td>
     <td width="50%" valign="top">
       <h3>Pytorch Kütüphanesi Kullanarak Resim Sınıflandırma</h3>
         <a target="_blank" href="https://github.com/kadirnar/pytorch-classification">
             <img src="minions.gif" width="100%" alt="https://github.com/kadirnar/pytorch-classification"/>
         </a>
-        <p><strong>Pytorch & Python </strong> Pytorch yapay zeka kütüphanesini kullanarak veri seti üzerinden model eğitmeyi ve örnek resimler üzerinden test işlemlerini yaptık.</p>  
+        <p><strong>Pytorch & Python </strong> Pytorch Yapay Zeka Kütüphanesini Kullanarak Veri Seti Üzerinden Model Eğitmeyi ve Örnek Resimler Üzerinden Test İşlemlerini Yaptık.</p>  
     </td>
   </tr>
 </table>
