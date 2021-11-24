@@ -24,7 +24,7 @@
     <td width="50%" valign="top">
       <h3>Yolov5 ve Sahi Kullanarak Yüksek Doğruluklu Nesne Tespit Uygulaması</h3>
         <a target="_blank" href="https://github.com/kadirnar/yolov5-pytorch-sahi">
-            <img src="sahi.gif" width="100%" alt="https://github.com/kadirnar/yolov5-pytorch-sahi"/>
+            <img src="torch.png" width="100%" alt="https://github.com/kadirnar/yolov5-pytorch-sahi"/>
         </a>
         <p><strong>Yolov4 + Sahi</strong> - Yolov5 Modeline Sahi Algoritmasını Ekleyerek Yüksek Doğruluklu Nesne Tespit Uygulamanı Yap!</p>
         <p><a target="_blank" href="https://github.com/kadirnar/yolov5-pytorch-sahi">Repo</a> </p>
