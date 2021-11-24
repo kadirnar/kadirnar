@@ -32,7 +32,7 @@
         <a target="_blank" href="https://github.com/kadirnar/pytorch-classification">
             <img src="minions.gif" width="100%" alt="https://github.com/kadirnar/pytorch-classification"/>
         </a>
-        <p><strong>Pytorch & Python </strong> Pytorch Yapay Zeka Kütüphanesini Kullanarak Veri Seti Üzerinden Model Eğitmeyi ve Örnek Resimler Üzerinden Test İşlemlerini Yaptık.</p>  
+        <p><strong>Pytorch & Python </strong> Pytorch Kütüphanesini Kullanarak Veri Seti Üzerinden Model Eğitme ve Test İşlemlerini Yaptık.</p>  
     </td>
   </tr>
 </table>
