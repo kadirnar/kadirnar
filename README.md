@@ -10,6 +10,9 @@
 
 - 🏆 Teknofest Sağlıkta Yapay Zeka Türkiye 2.liği
 
+
+[![Kadir's github stats](https://github-readme-stats.vercel.app/api?username=kadirnar)](https://github.com/anuraghazra/github-readme-stats)
+
 **💻 Çalıştığım Teknolojiler:**
 
 
@@ -37,3 +40,5 @@
     </td>
   </tr>
 </table>
+
+
