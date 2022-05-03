@@ -1,27 +1,28 @@
-<h2 align="center">Herkese Merhabalar</h2>
+<h1 align="center">Hi 👋, I'm Kadir Nar</h1>
 
-- 🔭 Şuan da **Bilgisayar Görü** üzerinde çalışıyorum.
+- 🔭 I'm currently working on **Computer Vision**
 
-- 🌱 Şuan da **Pytorch** teknolojilerini öğreniyorum.
+- 🌱 I am currently learning **Pytorch** technologies.
 
-- 📝 **Torchyolo** kütüphanesinin geliştirmesi üzerine çalışma yapıyorum.
+- 💬 Ask me about **Computer Vision, Pytorch and Object Detection**
 
-- 📫 Mail üzerinden bana ulaşabilirsiniz. **kadir.nar@hotmail.com**
+- 📝 **Dethub** kütüphanesinin geliştirmesi üzerine çalışma yapıyorum.
 
-- 🏆 Teknofest Sağlıkta Yapay Zeka Türkiye 2.liği
+- 📫 How to reach me **kadir.nar@hotmail.com**
 
+- 🏆 Teknofest Artificial Intelligence in Health Turkey 2nd Place
 
 [![Kadir's github stats](https://github-readme-stats.vercel.app/api?username=kadirnar)](https://github.com/anuraghazra/github-readme-stats)
 
-**💻 Çalıştığım Teknolojiler:**
+**💻 Languages and Tools:**
 
 
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
-
-## Projelerim
+<code><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="60"/> </a></code>
+## My Projects
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="left">
