@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Computer Vision, Pytorch and Object Detection**
 
-- 📝 **Dethub** kütüphanesinin geliştirmesi üzerine çalışma yapıyorum.
-
 - 📫 How to reach me **kadir.nar@hotmail.com**
 
 - 🏆 Teknofest Artificial Intelligence in Health Turkey 2nd Place
