@@ -26,18 +26,18 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="left">
-      <h3>Yolov5 ve Sahi Kullanarak Yüksek Doğruluklu Nesne Tespit Uygulaması</h3>
+      <h3>High Accuracy Object Detection Application Using Yolov5 and Sahi</h3>
         <a target="_blank" href="https://github.com/kadirnar/yolov5-pytorch-sahi">
             <img src="torch.png" width="100%" alt="https://github.com/kadirnar/yolov5-pytorch-sahi"/>
       </a>
-        <p><strong>Yolov4 & Sahi</strong> Yolov5 Modeline Sahi Algoritmasını Ekleyerek Küçük Nesnelerin Tespitini Yüksek Doğrulukla Yap!</p>
+        <p><strong>Yolov5 & SAHI</strong> Detect Small Objects with High Accuracy by Adding SAHI Algorithm to Yolov5 Model!</p>
     </td>
     <td width="50%" valign="right">
-      <h3>Pytorch Kütüphanesi Kullanarak Resim Sınıflandırma</h3>
+      <h3>Image Classification Using the Pytorch Library</h3>
         <a target="_blank" href="https://github.com/kadirnar/pytorch-classification">
             <img src="torch-2.png" width="95%" alt="https://github.com/kadirnar/pytorch-classification"/>
         </a>
-        <p><strong>Pytorch & Python </strong> Pytorch Kütüphanesini Kullanarak Veri Seti Üzerinden Model Eğitme ve Test İşlemlerini Yap!</p>  
+        <p><strong>Pytorch & Python </strong> Train and Test Models on Dataset Using Pytorch Library!</p>  
     </td>
   </tr>
 </table>
