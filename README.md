@@ -10,6 +10,8 @@
 
 - 🏆 Teknofest Artificial Intelligence in Health Turkey 2nd Place
 
+- ✨ Contributed: [SAHI](https://github.com/obss/sahi), [YOLOv5-Pip](https://github.com/fcakyon/yolov5-pip)
+
 [![Kadir's github stats](https://github-readme-stats.vercel.app/api?username=kadirnar)](https://github.com/anuraghazra/github-readme-stats)
 
 **💻 Languages and Tools:**
