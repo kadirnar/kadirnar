@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on **Computer Vision**
 
-- 🌱 I am currently learning **Pytorch** technologies.
+- 🌱 I am currently learning **Pytorch and Tensorflow**  technologies.
 
 - 💬 Ask me about **Computer Vision, Pytorch and Object Detection**
 
