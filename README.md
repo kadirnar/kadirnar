@@ -4,7 +4,7 @@
 
 - 🌱 I am currently learning **Pytorch and Tensorflow**  technologies.
 
-- 💬 Ask me about **Computer Vision, Pytorch and Object Detection**
+- 💬 Ask me about **Computer Vision, Pytorch, Object Detection, Classification and Segmentation**
 
 - 📫 How to reach me **kadir.nar@hotmail.com**
 
