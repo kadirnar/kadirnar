@@ -10,7 +10,12 @@
 
 - 🏆 Teknofest Artificial Intelligence in Health Turkey 2nd Place
 
-- ✨ Contributed: [SAHI](https://github.com/obss/sahi)
+## ✨ My Contributions:
+- [X] [Yolov7](https://github.com/WongKinYiu/yolov7/pull/423) : Added Torch Hub CPU Parameter
+- [X] [SAHI](https://github.com/obss/sahi/pull/322) : Added support for Detectron2 
+- [X] [SAHI](https://github.com/obss/sahi/pull/486) : Added support for TorchVision 
+- [ ] [SAHI](https://github.com/obss/sahi/pull/501) : Added support for TensorFlow Hub 
+- [ ] [SAHI](https://github.com/obss/sahi/pull/544) : Added support for Yolov7 
 
 [![Kadir's github stats](https://github-readme-stats.vercel.app/api?username=kadirnar)](https://github.com/anuraghazra/github-readme-stats)
 
