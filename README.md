@@ -27,24 +27,3 @@
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
 <code><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="60"/> </a></code>
-## My Projects
-<table bordercolor="#66b2b2">
-  <tr>
-    <td width="50%" valign="left">
-      <h3>High Accuracy Object Detection Application Using Yolov5 and Sahi</h3>
-        <a target="_blank" href="https://github.com/kadirnar/yolov5-pytorch-sahi">
-            <img src="torch.png" width="100%" alt="https://github.com/kadirnar/yolov5-pytorch-sahi"/>
-      </a>
-        <p><strong>Yolov5 & SAHI</strong> Detect Small Objects with High Accuracy by Adding SAHI Algorithm to Yolov5 Model!</p>
-    </td>
-    <td width="50%" valign="right">
-      <h3>Image Classification Using the Pytorch Library</h3>
-        <a target="_blank" href="https://github.com/kadirnar/pytorch-classification">
-            <img src="torch-2.png" width="95%" alt="https://github.com/kadirnar/pytorch-classification"/>
-        </a>
-        <p><strong>Pytorch & Python </strong> Train and Test Models on Dataset Using Pytorch Library!</p>  
-    </td>
-  </tr>
-</table>
-
-
