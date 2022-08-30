@@ -11,6 +11,7 @@
 - 🏆 Teknofest Artificial Intelligence in Health Turkey 2nd Place
 
 ## ✨ My Contributions:
+- [X] [Huggingface/evaluate](https://github.com/huggingface/evaluate/pull/275): I added the Brier Score metric for the Huggingface/evaluate repo. 
 - [X] [Awesome-Yolo-Object-Detection](https://github.com/dotnet-rs-py/awesome-yolo-object-detection/pull/1) : Added small object detection libraries.
 - [X] [The-Incredible-Pytorch](https://github.com/ritchieng/the-incredible-pytorch/pull/132) : Added YOLO(v4,v5,v6,v7) models
 - [X] [Yolov7](https://github.com/WongKinYiu/yolov7/pull/423) : Added Torch Hub CPU Parameter 
