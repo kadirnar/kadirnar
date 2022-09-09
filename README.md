@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Computer Vision, Pytorch, Object Detection, Classification and Segmentation**
 
-- 📫 How to reach me **kadir.nar@hotmail.com**
+- 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/kadir-nar/) for job offers.
 
 - 🏆 Teknofest Artificial Intelligence in Health Turkey 2nd Place
 
