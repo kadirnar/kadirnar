@@ -18,3 +18,4 @@
 - [X] [Norfair](https://github.com/tryolabs/norfair/pull/147) : Added support for Yolov7 
 - [X] [SAHI](https://github.com/obss/sahi/pull/322) : Added support for Detectron2 
 - [X] [SAHI](https://github.com/obss/sahi/pull/486) : Added support for TorchVision 
+- [X] [Kornia](https://github.com/kornia/kornia/pull/1871) : I created a demo on the Hugging Face platform using the gradio library for module image enhancement(Kornia)
