@@ -12,8 +12,8 @@
 
 ## ✨ My Contributions:
 - [X] [Huggingface/evaluate](https://github.com/huggingface/evaluate/pull/275): I added the Brier Score metric for the Huggingface/evaluate repo. 
-- [X] [Kornia](https://github.com/kornia/kornia/pull/1871) : I created a demo on the Hugging Face platform using the gradio library for module image enhancement(Kornia)
 - [X] [Kornia/Tutorials](https://github.com/kornia/tutorials/pull/33) : Added Hugging Face demo app
+- [X] [Kornia](https://github.com/kornia/kornia/pull/1871) : I created a demo on the Hugging Face platform using the gradio library for module image enhancement(Kornia)
 - [X] [Yolov7](https://github.com/WongKinYiu/yolov7/pull/423) : Added Torch Hub CPU Parameter 
 - [X] [Yolov6](https://github.com/meituan/YOLOv6/pull/187/) : I Added list property for image size parameter.
 - [X] [SAHI](https://github.com/obss/sahi/pull/486) : Added support for TorchVision 
