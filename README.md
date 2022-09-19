@@ -13,6 +13,7 @@
 ## ✨ My Contributions:
 - [X] [Huggingface/evaluate](https://github.com/huggingface/evaluate/pull/275): Added the Brier Score metric for the Huggingface/evaluate repo. 
 - [X] [Kornia/Tutorials](https://github.com/kornia/tutorials/pull/33) : Added Hugging Face demo app
+- [X] [Yolov5-Pip](https://github.com/fcakyon/yolov5-pip/pull/149) : Fixed the CUDA error.
 - [X] [Kornia](https://github.com/kornia/kornia/pull/1871) : Created a demo for module Line Fitting.
 - [X] [Kornia](https://github.com/kornia/kornia/pull/1886) : Created a demo on the Hugging Face platform using the gradio library for module image Enhancement
 - [X] [Yolov7](https://github.com/WongKinYiu/yolov7/pull/423) : Added Torch Hub CPU Parameter 
