@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kadir Nar</h1>
 
-- 💬 Ask me about **Computer Vision, Pytorch, Object Tracker, Object Detection, Classification and Segmentation**
-
-- 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/kadir-nar/) for job offers.
-
-- 🏆 Teknofest Artificial Intelligence in Health Turkey 2nd Place
-
 ## :sauna_man: My Opensource Packages:
 - [X] [OcSort-Pip](https://github.com/kadirnar/ocsort-pip): Packaged version of the OcSort repository
 - [X] [ByteTrack-Pip](https://github.com/kadirnar/bytetrack-pip): Packaged version of the ByteTrack repository
