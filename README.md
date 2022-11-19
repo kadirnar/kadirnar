@@ -17,7 +17,7 @@
 - [X] Sort-Pip: Packaged version of the Sort repository: https://github.com/kadirnar/sort-pip
 
 
-## ✨ My Contributions:
+## ✨ My Opensource Contributions:
 - [X] [Huggingface/evaluate](https://github.com/huggingface/evaluate/pull/275): Added the Brier Score metric for the Huggingface/evaluate repo. 
 - [X] [Kornia/Tutorials](https://github.com/kornia/tutorials/pull/33) : Added Hugging Face demo app
 - [X] [Yolov5-Pip](https://github.com/fcakyon/yolov5-pip/pull/149) : Fixed the CUDA error.
