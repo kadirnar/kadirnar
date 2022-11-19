@@ -12,7 +12,7 @@
 
 ## :sauna_man: My Opensource Packages:
 - [X] OcSort-Pip: Packaged version of the OcSort repository:https://github.com/kadirnar/ocsort-pip
-- [X] Packaged version of the ByteTrack repository: https://github.com/kadirnar/bytetrack-pip
+- [X] ByteTrack-Pip: Packaged version of the ByteTrack repository: https://github.com/kadirnar/bytetrack-pip
 - [X] DeepSort-Pip: Packaged version of the DeepSort repository: https://github.com/kadirnar/deepsort-pip
 - [X] Sort-Pip: Packaged version of the Sort repository: https://github.com/kadirnar/sort-pip
 
