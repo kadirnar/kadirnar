@@ -2,9 +2,9 @@
 
 - 🔭 I'm currently working on **Computer Vision**
 
-- 🌱 I am currently learning **Pytorch and Tensorflow**  technologies.
+- 🌱 I am currently learning **Pytorch** technology.
 
-- 💬 Ask me about **Computer Vision, Pytorch, Object Detection, Classification and Segmentation**
+- 💬 Ask me about **Computer Vision, Pytorch, Object Tracker, Object Detection, Classification and Segmentation**
 
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/kadir-nar/) for job offers.
 
