@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kadir Nar</h1>
 
-- 🔭 I'm currently working on **Computer Vision**
-
-- 🌱 I am currently learning **Pytorch** technology.
-
 - 💬 Ask me about **Computer Vision, Pytorch, Object Tracker, Object Detection, Classification and Segmentation**
 
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/kadir-nar/) for job offers.
