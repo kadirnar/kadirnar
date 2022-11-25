@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kadir Nar</h1>
-
 ## :sauna_man: My Opensource Packages:
 - [X] [Yolov7-Pip](https://github.com/kadirnar/yolov7-pip): Packaged version of the Yolov7 repository
 - [X] [OcSort-Pip](https://github.com/kadirnar/ocsort-pip): Packaged version of the OcSort repository
