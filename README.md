@@ -1,10 +1,10 @@
 ## :sauna_man: My Opensource Packages:
-- [X] [Norfair_Track-Pip](https://github.com/kadirnar/Norfair-Track): Packaged version of the Norfair Tracker Module 
-- [X] [Yolov7-Pip](https://github.com/kadirnar/yolov7-pip): Packaged version of the Yolov7 repository
-- [X] [OcSort-Pip](https://github.com/kadirnar/ocsort-pip): Packaged version of the OcSort repository
-- [X] [ByteTrack-Pip](https://github.com/kadirnar/bytetrack-pip): Packaged version of the ByteTrack repository
-- [X] [DeepSort-Pip](https://github.com/kadirnar/deepsort-pip): Packaged version of the DeepSort repository
-- [X] [Sort-Pip](https://github.com/kadirnar/sort-pip): Packaged version of the Sort repository
+- [X] [Norfair Track Pip](https://github.com/kadirnar/Norfair-Track): Packaged version of the Norfair Tracker Module 
+- [X] [Yolov7 Pip](https://github.com/kadirnar/yolov7-pip): Packaged version of the Yolov7 repository
+- [X] [OcSort Pip](https://github.com/kadirnar/ocsort-pip): Packaged version of the OcSort repository
+- [X] [ByteTrack Pip](https://github.com/kadirnar/bytetrack-pip): Packaged version of the ByteTrack repository
+- [X] [DeepSort Pip](https://github.com/kadirnar/deepsort-pip): Packaged version of the DeepSort repository
+- [X] [Sort Pip](https://github.com/kadirnar/sort-pip): Packaged version of the Sort repository
 
 
 ## ✨ My Opensource Contributions:
