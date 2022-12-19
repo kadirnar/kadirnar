@@ -1,4 +1,5 @@
 ## :sauna_man: My Opensource Packages:
+- [X] [Yolov6 Pip](https://github.com/kadirnar/yolov6-pip): Packaged version of the Yolov6 repository
 - [X] [Norfair Track Pip](https://github.com/kadirnar/Norfair-Track): Packaged version of the Norfair Tracker Module 
 - [X] [Yolov7 Pip](https://github.com/kadirnar/yolov7-pip): Packaged version of the Yolov7 repository
 - [X] [OcSort Pip](https://github.com/kadirnar/ocsort-pip): Packaged version of the OcSort repository
