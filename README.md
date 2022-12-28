@@ -22,3 +22,5 @@
 - [X] [Norfair](https://github.com/tryolabs/norfair/pull/147) : Added support for Yolov7 
 - [X] [Awesome-Yolo-Object-Detection](https://github.com/dotnet-rs-py/awesome-yolo-object-detection/pull/1) : Added small object detection libraries.
 - [X] [The-Incredible-Pytorch](https://github.com/ritchieng/the-incredible-pytorch/pull/132) : Added YOLO(v4,v5,v6,v7) models
+
+![Metrics](https://metrics.lecoq.io/kadirnar)
