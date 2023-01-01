@@ -3,6 +3,7 @@
 - [X] [Yolov6 Pip](https://github.com/kadirnar/yolov6-pip): Packaged version of the Yolov6 repository
 - [X] [BSRGAN Pip](https://github.com/kadirnar/bsrgan-pip): Packaged version of the BSRGAN repository
 - [X] [Norfair Track Pip](https://github.com/kadirnar/Norfair-Track): Packaged version of the Norfair Tracker Module 
+- [X] [StrongSort Pip](https://github.com/kadirnar/strongsort-pip): Packaged version of the StrongSort repository
 - [X] [OcSort Pip](https://github.com/kadirnar/ocsort-pip): Packaged version of the OcSort repository
 - [X] [ByteTrack Pip](https://github.com/kadirnar/bytetrack-pip): Packaged version of the ByteTrack repository
 - [X] [DeepSort Pip](https://github.com/kadirnar/deepsort-pip): Packaged version of the DeepSort repository
