@@ -12,7 +12,7 @@
 
 ## ✨ My Opensource Contributions:
 - [X] [Huggingface/evaluate](https://github.com/huggingface/evaluate/pull/275): Added the Brier Score metric for the Huggingface/evaluate repo. 
-- [X] [Hugging Face Doc](https://github.com/huggingface/hub-docs/pull/614) : Added Yolov8 and Yolov6 models.
+- [X] [Hugging Face Doc](https://github.com/huggingface/hub-docs/pull/639):  Added Yolov8 and TorchYolo algorithm.
 - [X] [Kornia/Tutorials](https://github.com/kornia/tutorials/pull/33) : Added Hugging Face demo app
 - [X] [Yolov5-Pip](https://github.com/fcakyon/yolov5-pip/pull/149) : Fixed the CUDA error.
 - [X] [Kornia](https://github.com/kornia/kornia/pull/1871) : Created a demo for module Line Fitting.
