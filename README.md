@@ -3,17 +3,6 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
 
 
-
-
 ## ✨ My Opensource Contributions:
-- [X] [Huggingface/evaluate](https://github.com/huggingface/evaluate/pull/275): Added the Brier Score metric for the Huggingface/evaluate repo. 
-- [X] [Hugging Face Doc](https://github.com/huggingface/hub-docs/pull/639):  Added Yolov8 and TorchYolo algorithm.
-- [X] [Kornia/Tutorials](https://github.com/kornia/tutorials/pull/33) : Added Hugging Face demo app
-- [X] [Yolov5-Pip](https://github.com/fcakyon/yolov5-pip/pull/149) : Fixed the CUDA error.
-- [X] [Kornia](https://github.com/kornia/kornia/pull/1871) : Created a demo for module Line Fitting.
-- [X] [Kornia](https://github.com/kornia/kornia/pull/1886) : Created a demo on the Hugging Face platform using the gradio library for module image Enhancement
-- [X] [Yolov7](https://github.com/WongKinYiu/yolov7/pull/423) : Added Torch Hub CPU Parameter 
-- [X] [Yolov6](https://github.com/meituan/YOLOv6/pull/187/) : Added list property for image size parameter.
-- [X] [SAHI](https://github.com/obss/sahi/pull/486) : Added support for TorchVision 
-- [X] [SAHI](https://github.com/obss/sahi/pull/322) : Added support for Detectron2 
-- [X] [Norfair](https://github.com/tryolabs/norfair/pull/147) : Added support for Yolov7 
+|[SAHI](https://github.com/obss/sahi/pull/486) | [SAHI](https://github.com/obss/sahi/pull/322) | [Norfair](https://github.com/tryolabs/norfair/pull/147) | [HuggingFace](https://github.com/huggingface/evaluate/pull/275) | [HuggingFace](https://github.com/huggingface/hub-docs/pull/639) |[Kornia/Tutorials](https://github.com/kornia/tutorials/pull/33) | [Kornia](https://github.com/kornia/kornia/pull/1871) | [Yolov7](https://github.com/WongKinYiu/yolov7/pull/423) |
+| -- | -- | -- | -- | -- | -- | -- | -- |
