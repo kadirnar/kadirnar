@@ -1,14 +1,11 @@
 ## :sauna_man: My Opensource Packages:
 
-### Gan Model Pips
 | [BSRGAN Pip](https://github.com/kadirnar/bsrgan-pip) | [Diffusion WebUI](https://github.com/kadirnar/Stable-Diffusion-ControlNet-WebUI) | [CodeFormer](https://github.com/kadirnar/codeformer-pip) | [AnimeSr](https://github.com/kadirnar/AnimeSr-Pip) | [Multilingual](https://github.com/kadirnar/Multilingual-Translaion)
 | -- | -- | -- | -- | -- |
 
-### Tracker Model Pips: 
 | [Norfair](https://github.com/kadirnar/Norfair-Track) | [OcSort](https://github.com/kadirnar/ocsort-pip) |[ByteTrack](https://github.com/kadirnar/bytetrack-pip) | [StrongSort](https://github.com/kadirnar/strongsort-pip) | [DeepSort](https://github.com/kadirnar/deepsort-pip)| [Sort](https://github.com/kadirnar/sort-pip) 
 | -- | -- | -- | -- | -- | -- 
 
-### Yolo Model Pips:
 | [TorchYolo](https://github.com/kadirnar/torchyolo) | [ClassifyHub](https://github.com/kadirnar/classifyhub) | [Yolov7](https://github.com/kadirnar/yolov7-pip) | [Yolov6](https://github.com/kadirnar/yolov6-pip) | [Yolox](https://github.com/kadirnar/yolox-pip) | [Yolor](https://github.com/kadirnar/yolor-pip) 
 | -- | -- | -- | -- | -- | -- |
 
