@@ -11,7 +11,13 @@
 | -- | -- | -- | -- | --
 
 ## ✨ My Opensource Contributions:
-|[SAHI](https://github.com/obss/sahi/pull/486) | [SAHI](https://github.com/obss/sahi/pull/322) | [Norfair](https://github.com/tryolabs/norfair/pull/147) | [HF/Evaluate](https://github.com/huggingface/evaluate/pull/275) | [Yolov7](https://github.com/WongKinYiu/yolov7/pull/423) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/639) |[Kornia](https://github.com/kornia/tutorials/pull/33) | [Kornia](https://github.com/kornia/kornia/pull/1871) | 
-| -- | -- | -- | -- | -- | -- | -- | --
+
+| [HF/Evaluate](https://github.com/huggingface/evaluate/pull/275) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/639) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/743) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/614) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3586) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3577)
+| -- | -- | -- | -- | -- | --
+
+
+|[SAHI](https://github.com/obss/sahi/pull/486) | [SAHI](https://github.com/obss/sahi/pull/322) | [Norfair](https://github.com/tryolabs/norfair/pull/147) | [Yolov7](https://github.com/WongKinYiu/yolov7/pull/423) | [Kornia](https://github.com/kornia/tutorials/pull/33) | [Kornia](https://github.com/kornia/kornia/pull/1871) 
+| -- | -- | -- | -- | -- | --
+
 
 ![Kadir Nar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadirnar&theme=radical&show_icons=true)
