@@ -11,9 +11,12 @@
 | -- | -- | -- | -- | --
 
 ## ✨ My Opensource Contributions:
-[HF/Diffusers](https://github.com/huggingface/diffusers/pull/3586) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3577)| [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3634) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3590) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3586)| [HF/Diffusers](https://github.com/huggingface/diffusers/pull/2970) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3754)  | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/4026)
-| -- | -- | -- | -- | -- | -- | -- | --
 
+[HF/Diffusers](https://github.com/huggingface/diffusers/pull/3586) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3577)| [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3634) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3590) 
+| -- | -- | -- | -- 
+
+| [HF/Diffusers](https://github.com/huggingface/diffusers/pull/2970) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3754)  | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/4026)| [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3586)
+| -- | -- | -- | --
 
 | [HF/Evaluate](https://github.com/huggingface/evaluate/pull/275) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/639) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/743) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/614) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/887) 
 | -- | -- | -- | -- | --
