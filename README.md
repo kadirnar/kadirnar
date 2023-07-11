@@ -15,8 +15,8 @@
 | -- | -- | -- | -- | -- | -- | -- 
 
 
-| [HF/Evaluate](https://github.com/huggingface/evaluate/pull/275) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/639) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/743) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/614)  
-| -- | -- | -- | --
+| [HF/Evaluate](https://github.com/huggingface/evaluate/pull/275) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/639) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/743) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/614) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/887)
+| -- | -- | -- | -- | --
 
 
 
