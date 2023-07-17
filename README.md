@@ -17,8 +17,8 @@
 |[HF/Transformers](https://github.com/huggingface/transformers/pull/24793) | [HF/Evaluate](https://github.com/huggingface/evaluate/pull/275) |[Pytorch/Examples](https://github.com/pytorch/examples/pull/1173)
 | -- | -- | --
 
- | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3586) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3577)| [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3634) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3590) 
-| -- | -- | -- | --
+ | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3586) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3577)| [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3634) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3590) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/4049)
+| -- | -- | -- | -- | --
 
 | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/2970) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3754)  | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/4026)| [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3586)
 | -- | -- | -- | --
