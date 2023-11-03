@@ -23,8 +23,8 @@
 | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/2970) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3754)  | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/4026)| [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3586)
 | -- | -- | -- | --
 
-| [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/639) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/743) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/614) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/887) 
-| -- | -- | -- | -- 
+| [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/639) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/743) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/614) | [HF/Hub-Docs](https://github.com/huggingface/hub-docs/pull/887) | [SafeVideo/AutoLlm](https://github.com/safevideo/autollm/pull/65)
+| -- | -- | -- | -- | -- 
 
 
 |[SAHI](https://github.com/obss/sahi/pull/486) | [SAHI](https://github.com/obss/sahi/pull/322) | [Norfair](https://github.com/tryolabs/norfair/pull/147) | [Yolov7](https://github.com/WongKinYiu/yolov7/pull/423) | [Yolov6](https://github.com/meituan/YOLOv6/pull/187) | [Kornia](https://github.com/kornia/tutorials/pull/33) | [Kornia](https://github.com/kornia/kornia/pull/1871) 
