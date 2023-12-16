@@ -27,4 +27,4 @@
 |[SAHI](https://github.com/obss/sahi/pull/486) | [SAHI](https://github.com/obss/sahi/pull/322) | [Norfair](https://github.com/tryolabs/norfair/pull/147) | [Yolov7](https://github.com/WongKinYiu/yolov7/pull/423) | [Yolov6](https://github.com/meituan/YOLOv6/pull/187) | [Kornia](https://github.com/kornia/tutorials/pull/33) | [Kornia](https://github.com/kornia/kornia/pull/1871) | [SafeVideo/AutoLlm](https://github.com/safevideo/autollm/pull/65)
 | -- | -- | -- | -- | -- | -- | -- | --
 
-![Kadir Nar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadirnar&theme=radical&show_icons=true)
+![Kadir Nar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadirnar&show_icons=true&theme=dark)
