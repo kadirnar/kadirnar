@@ -1,16 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kadirnar&style=flat)
 
 ## :sauna_man: My Opensource Packages:
-|[TorchYolo](https://github.com/kadirnar/torchyolo) | [Norfair](https://github.com/kadirnar/Norfair-Track) | [OcSort](https://github.com/kadirnar/ocsort-pip) |[ByteTrack](https://github.com/kadirnar/bytetrack-pip) | [StrongSort](https://github.com/kadirnar/strongsort-pip) | [Sort](https://github.com/kadirnar/sort-pip)
-| -- | -- | -- | -- | -- | --
+| [Norfair](https://github.com/kadirnar/Norfair-Track) | [OcSort](https://github.com/kadirnar/ocsort-pip) |[ByteTrack](https://github.com/kadirnar/bytetrack-pip) | [StrongSort](https://github.com/kadirnar/strongsort-pip) | [Sort](https://github.com/kadirnar/sort-pip) [MetaSeg](https://github.com/kadirnar/segment-anything-video) | [Codeformer](https://github.com/kadirnar/codeformer-pip)|[Yolov7](https://github.com/kadirnar/yolov7-pip) | [Yolov6](https://github.com/kadirnar/yolov6-pip) | [Yolox](https://github.com/kadirnar/yolox-pip) |[BsrGan](https://github.com/kadirnar/bsrgan-pip)
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | --
 
-
-| [Diffusion-WebUI](https://github.com/kadirnar/Stable-Diffusion-ControlNet-WebUI) | [MetaSeg](https://github.com/kadirnar/Stable-Diffusion-ControlNet-WebUI) | [ChatGptHub](https://github.com/kadirnar/ChatGptHub) |  [Codeformer](https://github.com/kadirnar/codeformer-pip)
-| -- | -- | -- | --
-
-
-[ClassifyHub](https://github.com/kadirnar/classifyhub) |[Yolov7](https://github.com/kadirnar/yolov7-pip) | [Yolov6](https://github.com/kadirnar/yolov6-pip) | [Yolox](https://github.com/kadirnar/yolox-pip) |[BsrGan](https://github.com/kadirnar/bsrgan-pip)
-| -- | -- | -- | -- | --
 
 ## ✨ My Opensource Contributions:
 
