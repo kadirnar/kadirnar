@@ -7,17 +7,11 @@
 
 ## ✨ My Opensource Contributions:
 
-|[HF/Transformers](https://github.com/huggingface/transformers/pull/24793) | [HF/Evaluate](https://github.com/huggingface/evaluate/pull/275) |[Pytorch/Examples](https://github.com/pytorch/examples/pull/1173)
-| -- | -- | --
-
- | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3586) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3577)| [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3634) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3590) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/4049)
-| -- | -- | -- | -- | --
-
-| [HF/Diffusers](https://github.com/huggingface/diffusers/pull/2970) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3754)  | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/4026)| [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3586)
-| -- | -- | -- | --
+|[HF/Transformers](https://github.com/huggingface/transformers/pull/24793) | [HF/Evaluate](https://github.com/huggingface/evaluate/pull/275) |[Pytorch/Examples](https://github.com/pytorch/examples/pull/1173) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/2970) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3590) | [HF/Diffusers](https://github.com/huggingface/diffusers/pull/3586)
+| -- | -- | -- | -- | -- | -- 
 
 
-|[SAHI](https://github.com/obss/sahi/pull/486) | [SAHI](https://github.com/obss/sahi/pull/322) | [Norfair](https://github.com/tryolabs/norfair/pull/147) | [Yolov7](https://github.com/WongKinYiu/yolov7/pull/423) | [Yolov6](https://github.com/meituan/YOLOv6/pull/187) | [Kornia](https://github.com/kornia/tutorials/pull/33) | [Kornia](https://github.com/kornia/kornia/pull/1871) | [SafeVideo/AutoLlm](https://github.com/safevideo/autollm/pull/65)
-| -- | -- | -- | -- | -- | -- | -- | --
+|[SAHI](https://github.com/obss/sahi/pull/486) | [SAHI](https://github.com/obss/sahi/pull/322) | [Norfair](https://github.com/tryolabs/norfair/pull/147) | [Yolov7](https://github.com/WongKinYiu/yolov7/pull/423) | [Yolov6](https://github.com/meituan/YOLOv6/pull/187) | [Kornia](https://github.com/kornia/kornia/pull/1871) | [SafeVideo/AutoLlm](https://github.com/safevideo/autollm/pull/65)
+| -- | -- | -- | -- | -- | -- | --
 
 ![Kadir Nar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadirnar&show_icons=true&theme=dark)
