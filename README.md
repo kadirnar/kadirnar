@@ -17,3 +17,4 @@
 | -- | -- | -- | -- | -- | -- | --
 
 ![Kadir Nar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadirnar&show_icons=true&theme=radical\&rank_icon=percentile)
+<img width="50%" src="https://ghstats.onuralpsezer.com/?user=merveenoyan&theme=dark&hide_border=false" alt="Kadir's GitHub Streak stats"></img> 
