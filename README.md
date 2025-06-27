@@ -16,5 +16,5 @@
 [SAHI](https://github.com/obss/sahi/pull/486) | [SAHI](https://github.com/obss/sahi/pull/322) | [SAHI](https://github.com/obss/sahi/pull/501) | [Norfair](https://github.com/tryolabs/norfair/pull/147) | [Yolov7](https://github.com/WongKinYiu/yolov7/pull/423) | [Yolov6](https://github.com/meituan/YOLOv6/pull/187) | [Kornia](https://github.com/kornia/kornia/pull/1871)
 | -- | -- | -- | -- | -- | -- | --
 
-![Kadir Nar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadirnar&show_icons=true&theme=radical\&rank_icon=percentile)
-<img width="50%" src="https://ghstats.onuralpsezer.com/?user=merveenoyan&theme=dark&hide_border=false" alt="Kadir's GitHub Streak stats"></img> 
+<img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=kadirnar&show_icons=true&theme=radical" alt="Kadir's GitHub stats"></img> <!-- Thanks @onuralpszr -->
+<img width="50%" src="https://ghstats.onuralpsezer.com/?user=kadirnar&theme=radical&hide_border=false" alt="Kadir's GitHub Streak stats"></img>
