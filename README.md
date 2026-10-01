@@ -51,31 +51,25 @@
 >
 > [TTS architectures](https://github.com/kadirnar/awesome-tts-architectures) · [Audio codecs](https://github.com/kadirnar/awesome-codec-architectures) · [Omni models](https://github.com/kadirnar/awesome-omni-architectures)
 
-<details>
-<summary><strong>🧪 More from the studio</strong></summary>
+### 🧪 More from the studio
 
 - **[Echo DACVAE](https://github.com/kadirnar/echo-dacvae)** — Experimental TTS with EchoDiT, flow matching, and DACVAE audio latents.
 - **[VoiceHub Arena](https://github.com/kadirnar/voicehub-arena)** — Reproducible TTS evaluation with intelligibility metrics, performance reports, and audio comparisons.
 - **[Fast-Mimi](https://github.com/kadirnar/fast-mimi)** — Mimi codec inference optimization with fused kernels and CUDA graphs.
 
-</details>
+### 🌱 Earlier packages & open-source contributions
 
-<details>
-<summary><strong>🌱 Earlier packages &amp; open-source contributions</strong></summary>
-
-### Packages
+#### Packages
 
 - **Tracking:** [Norfair](https://github.com/kadirnar/Norfair-Track) · [OC-SORT](https://github.com/kadirnar/ocsort-pip) · [ByteTrack](https://github.com/kadirnar/bytetrack-pip) · [StrongSORT](https://github.com/kadirnar/strongsort-pip) · [SORT](https://github.com/kadirnar/sort-pip)
 - **Detection & segmentation:** [MetaSeg](https://github.com/kadirnar/segment-anything-video) · [YOLOv7](https://github.com/kadirnar/yolov7-pip) · [YOLOv6](https://github.com/kadirnar/yolov6-pip) · [YOLOX](https://github.com/kadirnar/yolox-pip)
 - **Image restoration:** [CodeFormer](https://github.com/kadirnar/codeformer-pip) · [BSRGAN](https://github.com/kadirnar/bsrgan-pip)
 
-### Contributions
+#### Contributions
 
 - **Speech & generative AI:** [Insanely Fast Whisper](https://github.com/Vaibhavs10/insanely-fast-whisper/pull/83) · [Diffusers #3590](https://github.com/huggingface/diffusers/pull/3590) · [Diffusers #3586](https://github.com/huggingface/diffusers/pull/3586) · [ComfyUI](https://github.com/comfyanonymous/ComfyUI/pull/5210)
 - **ML tools:** [Evaluate](https://github.com/huggingface/evaluate/pull/275) · [PyTorch Examples](https://github.com/pytorch/examples/pull/1173) · [LlamaIndex](https://github.com/run-llama/llama_index/pull/10745) · [AutoLLM](https://github.com/safevideo/autollm/pull/65)
 - **Computer vision:** [SAHI #486](https://github.com/obss/sahi/pull/486) · [SAHI #322](https://github.com/obss/sahi/pull/322) · [SAHI #501](https://github.com/obss/sahi/pull/501) · [Norfair](https://github.com/tryolabs/norfair/pull/147) · [StrongSORT](https://github.com/dyhBUPT/StrongSORT/pull/66) · [YOLOv7](https://github.com/WongKinYiu/yolov7/pull/423) · [YOLOv6](https://github.com/meituan/YOLOv6/pull/187) · [Kornia](https://github.com/kornia/kornia/pull/1871)
-
-</details>
 
 <br />
 
