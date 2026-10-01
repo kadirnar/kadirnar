@@ -16,70 +16,37 @@
   <sub><samp>text-to-speech &nbsp;·&nbsp; audio codecs &nbsp;·&nbsp; open source</samp></sub>
 </p>
 
-### 🌷 Speech & audio projects
+### 🎙️ TTS models & training
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/Vyvo-Labs/VyvoTTS">VyvoTTS ↗</a></strong></p>
-      <p>LLM-based TTS training with SNAC and Mimi audio tokens.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/kadirnar/nar-tts">Nar TTS ↗</a></strong></p>
-      <p>Speech-token TTS using causal language models and the Mimi audio codec.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/kadirnar/echo-dacvae">Echo DACVAE ↗</a></strong></p>
-      <p>Experimental TTS with EchoDiT, flow matching, and DACVAE audio latents.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/kadirnar/nar-vae">NAR-VAE ↗</a></strong></p>
-      <p>Experimental non-autoregressive TTS with flow matching and DACVAE latents.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/kadirnar/voicehub">VoiceHub ↗</a></strong></p>
-      <p>Unified inference for speech synthesis, recognition, and voice activity detection.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/kadirnar/voicehub-arena">VoiceHub Arena ↗</a></strong></p>
-      <p>TTS evaluation with intelligibility metrics, performance reports, and audio comparisons.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/kadirnar/fast-dacvae">Fast-DACVAE ↗</a></strong></p>
-      <p>DACVAE inference optimization with PyTorch compilation and CUDA graphs.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/kadirnar/fast-mimi">Fast-Mimi ↗</a></strong></p>
-      <p>Mimi codec inference optimization with fused kernels and CUDA graphs.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/kadirnar/voiceplus">VoicePlus ↗</a></strong></p>
-      <p>Native PyTorch inference pipelines for TTS, ASR, VAD, and audio codecs.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/kadirnar/whisper-plus">WhisperPlus ↗</a></strong></p>
-      <p>Whisper transcription, speaker diarization, summarization, and video captioning.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/kadirnar/voice-agent-next">Voice Agent Next ↗</a></strong></p>
-      <p>Python runtime for speech-to-speech models and STT–LLM–TTS pipelines.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/kadirnar/fast-moss-tokenizer">Fast-MOSS-Tokenizer ↗</a></strong></p>
-      <p>MOSS Audio Tokenizer v2 inference with CUDA Graph streaming and fused kernels.</p>
-    </td>
-  </tr>
-</table>
+- **[VyvoTTS](https://github.com/Vyvo-Labs/VyvoTTS)** — LLM-based TTS training with SNAC and Mimi audio tokens.
+
+- **[Nar TTS](https://github.com/kadirnar/nar-tts)** — Speech-token TTS using causal language models and the Mimi audio codec.
+
+- **[Echo DACVAE](https://github.com/kadirnar/echo-dacvae)** — Experimental TTS with EchoDiT, flow matching, and DACVAE audio latents.
+
+- **[NAR-VAE](https://github.com/kadirnar/nar-vae)** — Experimental non-autoregressive TTS with flow matching and DACVAE latents.
+
+### 🎧 Speech tools & agents
+
+- **[VoiceHub](https://github.com/kadirnar/voicehub)** — Unified inference for speech synthesis, recognition, and voice activity detection.
+
+- **[VoicePlus](https://github.com/kadirnar/voiceplus)** — Native PyTorch inference pipelines for TTS, ASR, VAD, and audio codecs.
+
+- **[WhisperPlus](https://github.com/kadirnar/whisper-plus)** — Whisper transcription, speaker diarization, summarization, and video captioning.
+
+- **[Voice Agent Next](https://github.com/kadirnar/voice-agent-next)** — Python runtime for speech-to-speech models and STT–LLM–TTS pipelines.
+
+### ⚡ Audio codec optimization
+
+- **[Fast-DACVAE](https://github.com/kadirnar/fast-dacvae)** — DACVAE inference optimization with PyTorch compilation and CUDA graphs.
+
+- **[Fast-Mimi](https://github.com/kadirnar/fast-mimi)** — Mimi codec inference optimization with fused kernels and CUDA graphs.
+
+- **[Fast-MOSS-Tokenizer](https://github.com/kadirnar/fast-moss-tokenizer)** — MOSS Audio Tokenizer v2 inference with CUDA Graph streaming and fused kernels.
+
+### 🧪 Evaluation
+
+- **[VoiceHub Arena](https://github.com/kadirnar/voicehub-arena)** — TTS evaluation with intelligibility metrics, performance reports, and audio comparisons.
 
 ### 🌱 Earlier packages & open-source contributions
 
