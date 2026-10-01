@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">Kadir Nar — Giving text a little voice.</title>
+  <desc id="banner-desc">A warm cream banner about TTS models, audio codecs, and voice cloning, with a smiling lavender cloud wearing headphones and a small audio waveform.</desc>
+
+  <defs>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(956 191) rotate(90) scale(181 224)">
+      <stop stop-color="#E9E2FC"/>
+      <stop offset="1" stop-color="#E9E2FC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="358" rx="28" fill="#FBF8F2" stroke="#E9E3DC" stroke-width="2"/>
+  <rect x="715" y="26" width="420" height="308" rx="154" fill="url(#halo)"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <circle cx="70" cy="64" r="6" fill="#82B9A2"/>
+    <text x="91" y="71" fill="#585466" font-size="19" font-weight="650" letter-spacing="3">KADIR NAR</text>
+    <text x="64" y="155" fill="#2E2A3E" font-size="65" font-weight="750" letter-spacing="-2.5">Giving text</text>
+    <text x="64" y="225" fill="#2E2A3E" font-size="65" font-weight="750" letter-spacing="-2.5">a little voice.</text>
+    <text x="65" y="286" fill="#6E687A" font-size="21" font-weight="450">TTS models · Audio codecs · Voice cloning</text>
+  </g>
+
+  <!-- A few quiet sparks around our little listening cloud. -->
+  <path d="M802 101C802 112 797 117 786 117C797 117 802 122 802 133C802 122 807 117 818 117C807 117 802 112 802 101Z" fill="#E9BDA9"/>
+  <path d="M1103 259C1103 267 1099 271 1091 271C1099 271 1103 275 1103 283C1103 275 1107 271 1115 271C1107 271 1103 267 1103 259Z" fill="#8FBCA7"/>
+  <circle cx="831" cy="285" r="4" fill="#B4A0D2"/>
+  <ellipse cx="955" cy="306" rx="102" ry="10" fill="#D8CDEB" opacity=".42"/>
+
+  <!-- The headband is drawn behind the cloud. -->
+  <path d="M853 215V190C853 130 893 91 950 91C1007 91 1047 130 1047 190V215" stroke="#393246" stroke-width="22" stroke-linecap="round"/>
+  <path d="M858 168C866 125 901 98 950 98C999 98 1034 125 1042 168" stroke="#BBA5DF" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Soft, asymmetric cloud silhouette. -->
+  <path d="M869 282C843 282 826 267 826 244C826 224 838 207 856 202C854 174 872 153 897 151C906 126 926 115 950 119C972 121 989 137 993 157C1020 153 1045 173 1047 199C1068 204 1080 221 1080 242C1080 267 1061 283 1035 283H869Z" fill="#E2D5F4" stroke="#393246" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M887 166C883 168 879 172 876 177" stroke="#F7F0FF" stroke-width="7" stroke-linecap="round"/>
+  <path d="M926 139C933 134 942 132 951 134" stroke="#F7F0FF" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Small feet, ear cushions, and a happy face. -->
+  <path d="M900 280V289C900 295 905 299 912 299H925" stroke="#393246" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M981 282V289C981 295 986 299 993 299H1005" stroke="#393246" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="834" y="188" width="36" height="67" rx="16" fill="#393246"/>
+  <rect x="841" y="195" width="15" height="52" rx="7.5" fill="#AA93D1"/>
+  <rect x="1031" y="188" width="36" height="67" rx="16" fill="#393246"/>
+  <rect x="1045" y="195" width="15" height="52" rx="7.5" fill="#AA93D1"/>
+  <ellipse cx="911" cy="238" rx="13" ry="7" fill="#EDAFA9" opacity=".9"/>
+  <ellipse cx="990" cy="238" rx="13" ry="7" fill="#EDAFA9" opacity=".9"/>
+  <path d="M918 217V225M983 217V225" stroke="#393246" stroke-width="6" stroke-linecap="round"/>
+  <path d="M939 239C945 247 956 247 962 239" stroke="#393246" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- A mint speech bubble turns the voice theme into a tiny visual cue. -->
+  <path d="M1053 63H1106C1118 63 1126 71 1126 83V113C1126 125 1118 133 1106 133H1084L1070 144V133H1053C1041 133 1033 125 1033 113V83C1033 71 1041 63 1053 63Z" fill="#DCEEE3" stroke="#799F8C" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M1052 94V103M1065 86V111M1078 79V118M1091 88V109M1104 94V103" stroke="#527B68" stroke-width="5" stroke-linecap="round"/>
+</svg>
