@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/tts-banner-mobile.svg" />
-    <img src="./assets/tts-banner.svg" alt="Kadir Nar — Text-to-Speech &amp; Audio. Cream mochi mascot wearing lavender headphones." width="100%" />
+    <source media="(max-width: 600px)" srcset="./assets/tts-banner-mobile.svg?v=e9256fa" />
+    <img src="./assets/tts-banner.svg?v=e9256fa" alt="Kadir Nar — Text-to-Speech &amp; Audio. Cream mochi mascot wearing lavender headphones." width="100%" />
   </picture>
 </p>
 
