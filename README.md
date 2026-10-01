@@ -20,6 +20,7 @@ From model experiments to tools you can build with.
 
 | Project | What you'll find |
 | :--- | :--- |
+| **[VyvoTTS](https://github.com/Vyvo-Labs/VyvoTTS)** | LLM-based TTS training and inference with SNAC and Mimi audio codecs. |
 | **[Echo DACVAE](https://github.com/kadirnar/echo-dacvae)** | Experimental TTS with EchoDiT, flow matching, and DACVAE audio latents. |
 | **[Nar TTS](https://github.com/kadirnar/nar-tts)** | Speech-token TTS combining causal language models with Mimi, plus training and evaluation tools. |
 | **[VoiceHub](https://github.com/kadirnar/voicehub)** | One Python interface for speech synthesis, recognition, and voice activity detection. |
