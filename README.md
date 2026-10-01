@@ -1,52 +1,67 @@
 <p align="center">
-  <img src="./assets/tts-banner.svg" alt="Kadir Nar — Giving text a little voice. TTS models, audio codecs, and voice cloning, with a little headphone-wearing cloud." width="100%" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/tts-banner-mobile.svg" />
+    <img src="./assets/tts-banner.svg" alt="Hello, world ♡ — Kadir Nar. Small models. Big feelings. A little cream mochi wearing lavender headphones." width="100%" />
+  </picture>
 </p>
 
-<h2 align="center">Hi, I'm Kadir 👋</h2>
+<h3 align="center">A little lab for things that speak.</h3>
 
 <p align="center">
-  <strong>AI Research Engineer · Open-source speech &amp; audio</strong><br />
-  I build text-to-speech models, make audio codecs faster,<br />
-  and create tools to train, run, and evaluate speech systems.
+  Exploring text-to-speech, audio codecs,<br />
+  and the small details that make a voice feel alive.
 </p>
 
 <p align="center">
-  Text → tokens &amp; latents → a little voice ✨
+  <sub><samp>text-to-speech &nbsp;·&nbsp; audio codecs &nbsp;·&nbsp; open source</samp></sub>
 </p>
 
-## 🎙️ The speech lab
+### 🌷 Growing in the studio
 
-From model experiments to tools you can build with.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/Vyvo-Labs/VyvoTTS">VyvoTTS ↗</a></strong></p>
+      <p>LLM-based TTS training with SNAC and Mimi audio tokens.</p>
+      <p><sub>text → tokens → voice</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/kadirnar/nar-tts">Nar TTS ↗</a></strong></p>
+      <p>Causal language models meet Mimi in speech research.</p>
+      <p><sub>curiosity, one token at a time</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/kadirnar/voicehub">VoiceHub ↗</a></strong></p>
+      <p>Unified inference for speech synthesis, recognition, and voice activity detection.</p>
+      <p><sub>many voices, one place</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/kadirnar/fast-dacvae">Fast-DACVAE ↗</a></strong></p>
+      <p>Making neural audio codec inference more efficient.</p>
+      <p><sub>a lighter path to audio</sub></p>
+    </td>
+  </tr>
+</table>
 
-| Project | What you'll find |
-| :--- | :--- |
-| **[VyvoTTS](https://github.com/Vyvo-Labs/VyvoTTS)** | LLM-based TTS training and inference with SNAC and Mimi audio codecs. |
-| **[Echo DACVAE](https://github.com/kadirnar/echo-dacvae)** | Experimental TTS with EchoDiT, flow matching, and DACVAE audio latents. |
-| **[Nar TTS](https://github.com/kadirnar/nar-tts)** | Speech-token TTS combining causal language models with Mimi, plus training and evaluation tools. |
-| **[VoiceHub](https://github.com/kadirnar/voicehub)** | One Python interface for speech synthesis, recognition, and voice activity detection. |
-| **[VoiceHub Arena](https://github.com/kadirnar/voicehub-arena)** | Reproducible TTS evaluation with intelligibility metrics, performance reports, and audio comparisons. |
-
-## ⚡ Making speech faster
-
-Good voices deserve efficient inference, too.
-
-- **[Fast-DACVAE](https://github.com/kadirnar/fast-dacvae)** — DACVAE inference optimization with PyTorch compilation and CUDA graphs.
-- **[Fast-Mimi](https://github.com/kadirnar/fast-mimi)** — Mimi codec inference optimization with fused kernels and CUDA graphs.
-
-## 📚 The architecture bookshelf
-
-Visual guides for exploring how speech and audio models work.
-
-| [TTS architectures](https://github.com/kadirnar/awesome-tts-architectures) | [Audio codec architectures](https://github.com/kadirnar/awesome-codec-architectures) | [Omni architectures](https://github.com/kadirnar/awesome-omni-architectures) |
-| :--- | :--- | :--- |
-| Text-to-speech models, diagrams, and primary sources. | Neural codecs, audio VAEs, and continuous autoencoders. | Speech, audio, and multimodal language models. |
-
-## 🌱 Open-source roots
-
-Before speech, a lot of pixels. My earlier packages and contributions are still part of the story.
+> **📓 A little architecture notebook**
+>
+> Notes on models, tokens, and the journey back to sound.
+>
+> [TTS architectures](https://github.com/kadirnar/awesome-tts-architectures) · [Audio codecs](https://github.com/kadirnar/awesome-codec-architectures) · [Omni models](https://github.com/kadirnar/awesome-omni-architectures)
 
 <details>
-<summary><strong>Earlier packages &amp; open-source contributions</strong></summary>
+<summary><strong>🧪 More from the studio</strong></summary>
+
+- **[Echo DACVAE](https://github.com/kadirnar/echo-dacvae)** — Experimental TTS with EchoDiT, flow matching, and DACVAE audio latents.
+- **[VoiceHub Arena](https://github.com/kadirnar/voicehub-arena)** — Reproducible TTS evaluation with intelligibility metrics, performance reports, and audio comparisons.
+- **[Fast-Mimi](https://github.com/kadirnar/fast-mimi)** — Mimi codec inference optimization with fused kernels and CUDA graphs.
+
+</details>
+
+<details>
+<summary><strong>🌱 Earlier packages &amp; open-source contributions</strong></summary>
 
 ### Packages
 
@@ -65,5 +80,5 @@ Before speech, a lot of pixels. My earlier packages and contributions are still 
 <br />
 
 <p align="center">
-  <sub>Made with curiosity, a little code, and a lot of listening. 🎧</sub>
+  <sub>Made with curiosity, a little patience, and headphones. ♡</sub>
 </p>
