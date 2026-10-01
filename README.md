@@ -31,27 +31,55 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/kadirnar/echo-dacvae">Echo DACVAE ↗</a></strong></p>
+      <p>Experimental TTS with EchoDiT, flow matching, and DACVAE audio latents.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/kadirnar/nar-vae">NAR-VAE ↗</a></strong></p>
+      <p>Experimental non-autoregressive TTS with flow matching and DACVAE latents.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <p><strong><a href="https://github.com/kadirnar/voicehub">VoiceHub ↗</a></strong></p>
       <p>Unified inference for speech synthesis, recognition, and voice activity detection.</p>
     </td>
     <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/kadirnar/voicehub-arena">VoiceHub Arena ↗</a></strong></p>
+      <p>TTS evaluation with intelligibility metrics, performance reports, and audio comparisons.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <p><strong><a href="https://github.com/kadirnar/fast-dacvae">Fast-DACVAE ↗</a></strong></p>
       <p>DACVAE inference optimization with PyTorch compilation and CUDA graphs.</p>
     </td>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/kadirnar/fast-mimi">Fast-Mimi ↗</a></strong></p>
+      <p>Mimi codec inference optimization with fused kernels and CUDA graphs.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/kadirnar/voiceplus">VoicePlus ↗</a></strong></p>
+      <p>Native PyTorch inference pipelines for TTS, ASR, VAD, and audio codecs.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/kadirnar/whisper-plus">WhisperPlus ↗</a></strong></p>
+      <p>Whisper transcription, speaker diarization, summarization, and video captioning.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/kadirnar/voice-agent-next">Voice Agent Next ↗</a></strong></p>
+      <p>Python runtime for speech-to-speech models and STT–LLM–TTS pipelines.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/kadirnar/fast-moss-tokenizer">Fast-MOSS-Tokenizer ↗</a></strong></p>
+      <p>MOSS Audio Tokenizer v2 inference with CUDA Graph streaming and fused kernels.</p>
+    </td>
   </tr>
 </table>
-
-> **📓 Architecture references**
->
-> Model diagrams, code, and primary sources.
->
-> [TTS architectures](https://github.com/kadirnar/awesome-tts-architectures) · [Audio codecs](https://github.com/kadirnar/awesome-codec-architectures) · [Omni models](https://github.com/kadirnar/awesome-omni-architectures)
-
-### 🧪 Research & tooling
-
-- **[Echo DACVAE](https://github.com/kadirnar/echo-dacvae)** — Experimental TTS with EchoDiT, flow matching, and DACVAE audio latents.
-- **[VoiceHub Arena](https://github.com/kadirnar/voicehub-arena)** — Reproducible TTS evaluation with intelligibility metrics, performance reports, and audio comparisons.
-- **[Fast-Mimi](https://github.com/kadirnar/fast-mimi)** — Mimi codec inference optimization with fused kernels and CUDA graphs.
 
 ### 🌱 Earlier packages & open-source contributions
 
